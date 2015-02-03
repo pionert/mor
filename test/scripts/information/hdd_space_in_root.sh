@@ -44,9 +44,9 @@ hdd_space_in_dir()
 
 #--------MAIN -------------
 if [ "$FIRST_INSTALL" == "FIRST_INSTALL" ]; then
-    hdd_space_in_dir / "47185920"       #check if less than 45 GB
+    hdd_space_in_dir / "4718592"       #check if less than 4.5 GB
     if [ "$?" == "1" ]; then    #failed
-        echo "There is less space than 45GB in / dir, it is very important to have more DISK SPACE than that. If you REALLY know what you are doing - please type 'CONTINUE!' and press ENTER"
+        echo "There is less space than 4.5GB in / dir, it is very important to have more DISK SPACE than that. If you REALLY know what you are doing - please type 'CONTINUE!' and press ENTER"
 
         read INPUT;
         if [ "$INPUT" != "CONTINUE" ]; then
@@ -58,7 +58,7 @@ if [ "$FIRST_INSTALL" == "FIRST_INSTALL" ]; then
         echo
     fi
 else        
-    hdd_space_in_dir / "10485760"       #check if less than 10 GB
+    hdd_space_in_dir / "1048576"       #check if less than 1 GB
     if [ "$?" == "1" ]; then    #failed
         echo
         df -h

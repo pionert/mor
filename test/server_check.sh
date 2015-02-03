@@ -232,14 +232,14 @@ fi
 
 totalRAM
 STATUS="$?"
-if [ "$STATUS" == "0" ]; then
-    report "RAM memory" 0
+if [ "$STATUS" == "1" ]; then
+    report "RAM memory" 1
 else
     report "You should install at least 2 GB of RAM for your server" 1
 fi
 #-------- HDD ------------------
 
-hdd_space_in_dir / "10485760"       #check if less than 10 GB
+hdd_space_in_dir / "1048576"       #check if less than 1 GB
 if [ "$?" == "1" ]; then    #failed
     report "There is not enough free space in / partition, ensure that / partition would have 10 GB or more of free space" 1
     echo

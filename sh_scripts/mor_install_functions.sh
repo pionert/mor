@@ -707,7 +707,7 @@ svn_ping(){
 
 upgrade_install_scripts(){
 	svn_ping;				#pinging the svn server
-	if [ "$?" == "0" ];
+	if [ "$?" == "1" ];
 		then svn co http://svn.kolmisoft.com/mor/install_script/trunk/ /usr/src/mor
 		else echo "Failed to upgrade install scripts";
 	fi

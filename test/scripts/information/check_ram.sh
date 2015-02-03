@@ -11,8 +11,8 @@
 #       ./ram.sh FIRST_INSTALL    #   Asks for confirmation
 #       ./ram.sh                  #   Just reports status {OK, FAILED}, no confirmation
 
-AMOUNT="3900"
-AMOUNT_FIRST_INSTALL="3900"
+AMOUNT="390"
+AMOUNT_FIRST_INSTALL="390"
 FIRST_INSTALL="$1" #taking parameters
 
 . /usr/src/mor/test/framework/bash_functions.sh

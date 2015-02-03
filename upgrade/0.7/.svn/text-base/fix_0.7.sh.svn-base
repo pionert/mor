@@ -16,7 +16,7 @@ fi
 
 if [ $LOCAL_INSTALL == 0 ]; then
     # upgrade install script files
-    svn co http://svn.kolmisoft.com/mor/install_script/trunk/ /usr/src/mor
+    svn co http://svn.kolmisoft.com/mor/install_script/trunk/ /usr/src/mor_upgraded
 fi
 
 # get db data

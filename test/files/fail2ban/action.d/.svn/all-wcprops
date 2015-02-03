@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/38295/mor/install_script/trunk/test/files/fail2ban/action.d
+END
+sendmail-banned.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/38295/mor/install_script/trunk/test/files/fail2ban/action.d/sendmail-banned.conf
+END

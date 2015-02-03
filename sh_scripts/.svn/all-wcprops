@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/55506/mor/install_script/trunk/sh_scripts
+END
+h323_binaddr_fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/h323_binaddr_fix.sh
+END
+db_dump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/41027/mor/install_script/trunk/sh_scripts/db_dump.sh
+END
+fresh_mor8.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/fresh_mor8.sh
+END
+mysql_5_5.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/36301/mor/install_script/trunk/sh_scripts/mysql_5_5.sh
+END
+percona_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/41248/mor/install_script/trunk/sh_scripts/percona_install.sh
+END
+debian_fcgid.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/debian_fcgid.sh
+END
+convert_mp3wav2astwav.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/19576/mor/install_script/trunk/sh_scripts/convert_mp3wav2astwav.sh
+END
+install_heartbeat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/54301/mor/install_script/trunk/sh_scripts/install_heartbeat.sh
+END
+check_autodialer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/check_autodialer.sh
+END
+asterisk_nice_restart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/55506/mor/install_script/trunk/sh_scripts/asterisk_nice_restart.sh
+END
+configure_ma.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/38391/mor/install_script/trunk/sh_scripts/configure_ma.sh
+END
+backup_restore_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/backup_restore_install.sh
+END
+redhat_centos_after_install_function.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/redhat_centos_after_install_function.sh
+END
+ntpdate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/ntpdate.sh
+END
+asterisk_redhat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/5264/mor/install_script/trunk/sh_scripts/asterisk_redhat
+END
+mor_email2callback.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/mor_email2callback.sh
+END
+convert_all_wav_to_mp3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/convert_all_wav_to_mp3.sh
+END
+mod_fcgi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25966/mor/install_script/trunk/sh_scripts/mod_fcgi.sh
+END
+magento_support_access.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/21987/mor/install_script/trunk/sh_scripts/magento_support_access.sh
+END
+install_mor9_sounds.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/35985/mor/install_script/trunk/sh_scripts/install_mor9_sounds.sh
+END
+centos_install_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/33521/mor/install_script/trunk/sh_scripts/centos_install_functions.sh
+END
+install_email2callback.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/install_email2callback.sh
+END
+configure_mycnf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/38934/mor/install_script/trunk/sh_scripts/configure_mycnf.sh
+END
+install_configs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/36712/mor/install_script/trunk/sh_scripts/install_configs.sh
+END
+cdr_extractor.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/40802/mor/install_script/trunk/sh_scripts/cdr_extractor.py
+END
+upgrade_sound_files.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/upgrade_sound_files.sh
+END
+daily_actions_cronjob_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/daily_actions_cronjob_install.sh
+END
+s3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/35573/mor/install_script/trunk/sh_scripts/s3.sh
+END
+codecs_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/36711/mor/install_script/trunk/sh_scripts/codecs_install.sh
+END
+centos_fcgid.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/42122/mor/install_script/trunk/sh_scripts/centos_fcgid.sh
+END
+gui_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/gui_upgrade.sh
+END
+check_calls.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/check_calls.sh
+END
+upgrade_asterisk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26619/mor/install_script/trunk/sh_scripts/upgrade_asterisk.sh
+END
+cdr_log_backup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/42352/mor/install_script/trunk/sh_scripts/cdr_log_backup.sh
+END
+gem_version_check_and_repair.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/6631/mor/install_script/trunk/sh_scripts/gem_version_check_and_repair.sh
+END
+global_grid_defense.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/42879/mor/install_script/trunk/sh_scripts/global_grid_defense.sh
+END
+asterisk1.6_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/asterisk1.6_install.sh
+END
+clean_cron.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/clean_cron.sh
+END
+enable_backup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/enable_backup.sh
+END
+mor_install_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/41981/mor/install_script/trunk/sh_scripts/mor_install_functions.sh
+END
+keep_alerts_alive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/43848/mor/install_script/trunk/sh_scripts/keep_alerts_alive.sh
+END
+sipsak_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/sipsak_install.sh
+END
+install_mnp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5232/mor/install_script/trunk/sh_scripts/install_mnp.sh
+END
+gui_upgrade_light.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/gui_upgrade_light.sh
+END
+install_hgc_sounds.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/install_hgc_sounds.sh
+END
+nodejs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22481/mor/install_script/trunk/sh_scripts/nodejs.sh
+END
+kolmisoft_logo_txt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/kolmisoft_logo_txt.sh
+END
+sendEmail_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/sendEmail_install.sh
+END
+sip_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/sip_check.sh
+END
+convert2astwav.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19576/mor/install_script/trunk/sh_scripts/convert2astwav.sh
+END
+install_international_sounds.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/20285/mor/install_script/trunk/sh_scripts/install_international_sounds.sh
+END
+phpsysinfo_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/phpsysinfo_install.sh
+END
+asterisk_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/18497/mor/install_script/trunk/sh_scripts/asterisk_upgrade.sh
+END
+cgp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/cgp
+END
+upgrade_install_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/upgrade_install_script.sh
+END
+backup_calllog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5176/mor/install_script/trunk/sh_scripts/backup_calllog.sh
+END
+check_modules.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/check_modules.sh
+END
+phpmyadmin_centos_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/36312/mor/install_script/trunk/sh_scripts/phpmyadmin_centos_install.sh
+END
+data_collector.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/54465/mor/install_script/trunk/sh_scripts/data_collector.sh
+END
+fix_centos52_repos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/fix_centos52_repos.sh
+END
+install_elunia_stats.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/21997/mor/install_script/trunk/sh_scripts/install_elunia_stats.sh
+END
+test_gui.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/test_gui.sh
+END
+logrotate_run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/24990/mor/install_script/trunk/sh_scripts/logrotate_run.sh
+END
+net_info
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/net_info
+END
+support_access.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/50741/mor/install_script/trunk/sh_scripts/support_access.sh
+END
+logrotate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/24990/mor/install_script/trunk/sh_scripts/logrotate.sh
+END
+db_one_file_per_table.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/29648/mor/install_script/trunk/sh_scripts/db_one_file_per_table.sh
+END
+pmapg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/36313/mor/install_script/trunk/sh_scripts/pmapg.sh
+END
+fail2ban_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/15004/mor/install_script/trunk/sh_scripts/fail2ban_install.sh
+END
+ruby_cairo_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/ruby_cairo_upgrade.sh
+END

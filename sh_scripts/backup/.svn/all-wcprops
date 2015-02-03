@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/41915/mor/install_script/trunk/sh_scripts/backup
+END
+asterisk_restore_last_resort.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/backup/asterisk_restore_last_resort.sh
+END
+asterisk_check_if_alive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/backup/asterisk_check_if_alive.sh
+END
+make_restore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/41915/mor/install_script/trunk/sh_scripts/backup/make_restore.sh
+END
+make_backup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/41547/mor/install_script/trunk/sh_scripts/backup/make_backup.sh
+END
+mysql_mor_apache_last_resort.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/backup/mysql_mor_apache_last_resort.sh
+END
+restore_asterisk_start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/backup/restore_asterisk_start.sh
+END

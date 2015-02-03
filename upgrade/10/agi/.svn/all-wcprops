@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/13014/mor/install_script/trunk/upgrade/10/agi
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/13014/mor/install_script/trunk/upgrade/10/agi/install.sh
+END
+cagi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/11633/mor/install_script/trunk/upgrade/10/agi/cagi.c
+END
+cagi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/11633/mor/install_script/trunk/upgrade/10/agi/cagi.h
+END
+mor_callback
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/11633/mor/install_script/trunk/upgrade/10/agi/mor_callback
+END
+mor_callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/13006/mor/install_script/trunk/upgrade/10/agi/mor_callback.c
+END

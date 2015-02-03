@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/55623/mor/install_script/trunk/db
+END
+destinationgroups.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/21/mor/install_script/trunk/db/destinationgroups.sql
+END
+hangupcausecodes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/21/mor/install_script/trunk/db/hangupcausecodes.sql
+END
+update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/21/mor/install_script/trunk/db/update.sql
+END
+update06.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/21/mor/install_script/trunk/db/update06.sql
+END
+auto_dialer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/21/mor/install_script/trunk/db/auto_dialer.sql
+END
+mysqltuner.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/21/mor/install_script/trunk/db/mysqltuner.pl
+END
+fresh_install_sqls.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/41857/mor/install_script/trunk/db/fresh_install_sqls.sql
+END
+mor_create_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/41865/mor/install_script/trunk/db/mor_create_db.sh
+END
+mysqlpermissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5092/mor/install_script/trunk/db/mysqlpermissions.sql
+END
+mor_db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/7756/mor/install_script/trunk/db/mor_db.sql
+END
+demo_tariffs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/21/mor/install_script/trunk/db/demo_tariffs.sql
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/27496/mor/install_script/trunk/db/init.sql
+END
+destinations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/21/mor/install_script/trunk/db/destinations.sql
+END
+tuning-primer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/21/mor/install_script/trunk/db/tuning-primer.sh
+END
+mnp_init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5232/mor/install_script/trunk/db/mnp_init.sql
+END

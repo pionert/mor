@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/52021/mor/install_script/trunk/test/scripts/mysql
+END
+phpmyadmin_path_rename.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/32478/mor/install_script/trunk/test/scripts/mysql/phpmyadmin_path_rename.sh
+END
+0_folder_separator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/9726/mor/install_script/trunk/test/scripts/mysql/0_folder_separator.sh
+END
+delete_duplicate_indexes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/26327/mor/install_script/trunk/test/scripts/mysql/delete_duplicate_indexes.sh
+END
+mysql_log_error.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/15033/mor/install_script/trunk/test/scripts/mysql/mysql_log_error.sh
+END
+background_tasks_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/52021/mor/install_script/trunk/test/scripts/mysql/background_tasks_check.sh
+END
+calls_speedup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/36629/mor/install_script/trunk/test/scripts/mysql/calls_speedup.sh
+END
+logrotates.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/48124/mor/install_script/trunk/test/scripts/mysql/logrotates.sh
+END
+mysql_grants.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/42641/mor/install_script/trunk/test/scripts/mysql/mysql_grants.sh
+END
+5_mysql_is_running.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/15021/mor/install_script/trunk/test/scripts/mysql/5_mysql_is_running.sh
+END
+mysql_binlog.sh_disabled
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/27913/mor/install_script/trunk/test/scripts/mysql/mysql_binlog.sh_disabled
+END
+valid_table_engines_and_increments.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/19595/mor/install_script/trunk/test/scripts/mysql/valid_table_engines_and_increments.sh
+END
+db_upgrade_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/42648/mor/install_script/trunk/test/scripts/mysql/db_upgrade_check.sh
+END
+check_mysql_binlog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/31091/mor/install_script/trunk/test/scripts/mysql/check_mysql_binlog.sh
+END
+mysql_replication_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/43980/mor/install_script/trunk/test/scripts/mysql/mysql_replication_test.sh
+END
+mysql_file_grant.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/51988/mor/install_script/trunk/test/scripts/mysql/mysql_file_grant.sh
+END
+remove_skip-bdb_option.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/31257/mor/install_script/trunk/test/scripts/mysql/remove_skip-bdb_option.sh
+END
+check_db_structure.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/48256/mor/install_script/trunk/test/scripts/mysql/check_db_structure.sh
+END
+admin_id_not_0.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/13759/mor/install_script/trunk/test/scripts/mysql/admin_id_not_0.sh
+END
+mysql_binlog_rotate.sh_disabled
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/27913/mor/install_script/trunk/test/scripts/mysql/mysql_binlog_rotate.sh_disabled
+END
+z_my_cnf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/39010/mor/install_script/trunk/test/scripts/mysql/z_my_cnf.sh
+END
+db_settings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/15021/mor/install_script/trunk/test/scripts/mysql/db_settings.sh
+END
+sync_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/32653/mor/install_script/trunk/test/scripts/mysql/sync_data.sh
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/42550/mor/install_script/trunk/test/zabbix
+END
+restart_httpd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26932/mor/install_script/trunk/test/zabbix/restart_httpd.sh
+END
+s3_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/37707/mor/install_script/trunk/test/zabbix/s3_check.sh
+END
+mor
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/42550/mor/install_script/trunk/test/zabbix/mor
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/54525/mor/install_script/trunk/test/cluster1/x6
+END
+prepare_node_for_x6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/52613/mor/install_script/trunk/test/cluster1/x6/prepare_node_for_x6.sh
+END
+mor_test_run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/54525/mor/install_script/trunk/test/cluster1/x6/mor_test_run.sh
+END

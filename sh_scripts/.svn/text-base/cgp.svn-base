@@ -1,0 +1,4 @@
+#! /bin/bash
+    . /usr/src/mor/sh_scripts/mor_install_functions.sh
+#=====================================================
+		mor_admin_pass_crack

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/55758/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various
+END
+security.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/security.sh
+END
+s3_backup_installed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/s3_backup_installed.sh
+END
+0_folder_separator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/0_folder_separator.sh
+END
+critical_logrotate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/53748/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/critical_logrotate.sh
+END
+directories.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/directories.sh
+END
+zabbix_installed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/55146/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/zabbix_installed.sh
+END
+fail2ban.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/50931/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/fail2ban.sh
+END
+fail2ban_running.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/50931/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/fail2ban_running.sh
+END
+packets_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/55445/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/packets_install.sh
+END
+yum-updatesd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/yum-updatesd.sh
+END
+stress.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/stress.sh
+END
+phpsysinfo_passwd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/phpsysinfo_passwd.sh
+END
+crontab_permissions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/54062/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/crontab_permissions.sh
+END
+ghost_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/55758/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/ghost_test.sh
+END
+core_and_gui_versions_do_not_match.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/core_and_gui_versions_do_not_match.sh
+END
+dns.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/dns.sh
+END
+scripts_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/55518/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/scripts_check.sh
+END
+fail2ban_patches.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/55160/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/fail2ban_patches.sh
+END
+bash_vulnerability.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/52868/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/bash_vulnerability.sh
+END
+network_connectivity.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/network_connectivity.sh
+END
+selinux.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/selinux.sh
+END
+alias.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/50956/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/alias.sh
+END
+raid-check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/52459/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/raid-check.sh
+END
+install_script_version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/install_script_version.sh
+END
+ntpdate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/ntpdate.sh
+END
+wireshark.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/52677/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/wireshark.sh
+END
+cpu_freq_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/54632/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/cpu_freq_check.sh
+END
+other_products.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/other_products.sh
+END
+iperf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/iperf.sh
+END
+fail2ban_ports.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/various/fail2ban_ports.sh
+END

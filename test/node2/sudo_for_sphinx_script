@@ -1,0 +1,3 @@
+Defaults:apache !requiretty
+apache ALL = (root) NOPASSWD: /bin/bash -c  /bin/sh  /home/tickets/lib/sphinx_reindex.sh
+

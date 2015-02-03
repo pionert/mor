@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/54298/mor/install_script/trunk/x6/scripts/cronjobs
+END
+mor_daily_actions
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/54298/mor/install_script/trunk/x6/scripts/cronjobs/mor_daily_actions
+END
+mor_background_tasks
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/54298/mor/install_script/trunk/x6/scripts/cronjobs/mor_background_tasks
+END
+mor_sms_ad
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/54298/mor/install_script/trunk/x6/scripts/cronjobs/mor_sms_ad
+END
+mor_auto_dialer
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/54298/mor/install_script/trunk/x6/scripts/cronjobs/mor_auto_dialer
+END
+mor_aggregates_control
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/54298/mor/install_script/trunk/x6/scripts/cronjobs/mor_aggregates_control
+END
+mor_delete_old_rates
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/54298/mor/install_script/trunk/x6/scripts/cronjobs/mor_delete_old_rates
+END
+mor_minute_actions
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/54298/mor/install_script/trunk/x6/scripts/cronjobs/mor_minute_actions
+END

@@ -1,0 +1,68 @@
+#! /bin/sh
+
+#   Author: Mindaugas Mardosas
+#   Year:   2011
+#   About:  This script checks if mysql bin logs rotation is enabled, if not - enables. The script allows you to tune the parameter to a required amount of days - if you will change the parameter - it will leave it untouched next time
+#
+. /usr/src/mor/test/framework/bash_functions.sh
+
+#------VARIABLES-------------
+
+#----- FUNCTIONS ------------
+
+#--------MAIN -------------
+
+check_if_mycnf_option_enabled()
+{
+    #   Author: Mindaugas Mardosas
+    #   Year:   2011
+    #   About:  This script checks if given mysql option exists in /etc/my.cnf
+    #   
+    #   Parameters:
+    #       1   -   what option to check
+    # 
+    #   Returns:
+    #       0   -   OK, enabled
+    #       1   -   Failed, not enabled
+
+    N1=`grep $1 /etc/my.cnf | wc -l`;
+    if [ "$N1" -lt "1" ]; then
+        return 1
+    fi  
+}
+#--------------------------
+fix_binlog_rotation()
+{
+    #   Author: Mindaugas Mardosas
+    #   Year:   2011
+    #   About:  This script adds mysql bin loggs rotation
+    # 
+    #   Returns:
+    #       0   -   OK, enabled
+    #       1   -   Failed, not enabled
+    _mor_time;
+    cp /etc/my.cnf /usr/local/mor/backups/my_cnf/my.cnf_$mor_time #backup    
+    sed '/\[mysqld\]/a\expire_logs_days = 7' /etc/my.cnf > /tmp/.my.cnf
+    mv /tmp/.my.cnf /etc/my.cnf
+}
+
+#===================== MAIN =============
+mysql_is_running
+if [ "$?" != "0" ]; then
+    exit 0;
+fi
+
+check_if_mycnf_option_enabled "expire_logs_days"
+if [ "$?" == "0" ]; then
+    report "MySQL binlog rotation" 0
+else
+    fix_binlog_rotation
+    check_if_mycnf_option_enabled "expire_logs_days"
+    if [ "$?" == "0" ]; then
+        report "MySQL binlog rotation" 4
+        report "MySQL server restart is required" 6
+    else
+        report "MySQL binlog rotation" 1
+    fi
+fi
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/51991/mor/install_script/trunk/db/0.8
+END
+permissions_8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22489/mor/install_script/trunk/db/0.8/permissions_8.sql
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/51991/mor/install_script/trunk/db/0.8/init.sql
+END
+whole_db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7756/mor/install_script/trunk/db/0.8/whole_db.sql
+END
+beta_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/26513/mor/install_script/trunk/db/0.8/beta_data.sql
+END
+make_clean_mor8_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/14994/mor/install_script/trunk/db/0.8/make_clean_mor8_db.sh
+END
+backup_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/14994/mor/install_script/trunk/db/0.8/backup_db.sh
+END
+mor8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22542/mor/install_script/trunk/db/0.8/mor8.sql
+END
+make_new_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/14994/mor/install_script/trunk/db/0.8/make_new_db.sh
+END
+beta_structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7188/mor/install_script/trunk/db/0.8/beta_structure.sql
+END
+permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/16964/mor/install_script/trunk/db/0.8/permissions.sql
+END
+import_changes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22512/mor/install_script/trunk/db/0.8/import_changes.sh
+END
+mor8db.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/21/mor/install_script/trunk/db/0.8/mor8db.tgz
+END

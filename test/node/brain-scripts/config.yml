@@ -1,0 +1,13 @@
+reporter:
+  url: http://192.168.0.13
+  urn: api/report_job
+  debug: 1
+  files:
+    my_debug: /tmp/mor_debug.log
+    crash_log: /tmp/mor_crash.log
+    production_log: /home/bugo/workspace/mor/trunk_git.log
+    access_log: /var/log/apache2/access.log
+    error_log: /var/log/apache2/error.log
+    selenium_server_log: /var/log/mor/selenium_server.log
+    test_system_log: /var/log/mor/test_system
+    extra_log: null

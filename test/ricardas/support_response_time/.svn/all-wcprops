@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/35173/mor/install_script/trunk/test/ricardas/support_response_time
+END
+support_response_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/35173/mor/install_script/trunk/test/ricardas/support_response_time/support_response_time.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/35022/mor/install_script/trunk/test/ricardas/support_response_time/Makefile
+END

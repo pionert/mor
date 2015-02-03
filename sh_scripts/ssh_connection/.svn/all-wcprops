@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/ssh_connection
+END
+ssh_prepare_gui_server_as_apache.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/ssh_connection/ssh_prepare_gui_server_as_apache.sh
+END
+ssh_prepare_gui_server_as_root.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/ssh_connection/ssh_prepare_gui_server_as_root.sh
+END
+SSH_README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/ssh_connection/SSH_README
+END
+ssh_prepare_app_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/ssh_connection/ssh_prepare_app_server.sh
+END
+ssh_activate_app_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/ssh_connection/ssh_activate_app_server.sh
+END

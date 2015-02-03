@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/49608/mor/install_script/trunk/sh_scripts/rs_admin_upgrade
+END
+db_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/49608/mor/install_script/trunk/sh_scripts/rs_admin_upgrade/db_changes.sql
+END
+rs_admin_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/49415/mor/install_script/trunk/sh_scripts/rs_admin_upgrade/rs_admin_upgrade.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/49423/mor/install_script/trunk/sh_scripts/rs_admin_upgrade/README
+END

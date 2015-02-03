@@ -1,0 +1,42 @@
+# Quality Control Cron
+
+mkdir -p /var/www/html/quality.kolmisoft.com
+
+
+
+#===============:X5===============:
+mkdir -p /var/www/html/quality.kolmisoft.com/x5
+svn co http://svn.kolmisoft.com/mor/gui/branches/x5 /var/www/html/quality.kolmisoft.com/x5/mor
+
+
+#Cron:
+echo "*/5 * * * * root /bin/bash -l /usr/src/mor/test/quality_control/quality_control_cron.sh /var/www/html/quality.kolmisoft.com/x5/mor/app /var/www/html/quality.kolmisoft.com/x5" > /etc/cron.d/x5_quality
+
+#===============X4===============
+mkdir -p /var/www/html/quality.kolmisoft.com/x4
+svn co http://svn.kolmisoft.com/mor/gui/branches/x4 /var/www/html/quality.kolmisoft.com/x4/mor
+
+
+#Cron:
+echo "*/1 * * * * root /bin/bash -l -x /usr/src/mor/test/quality_control/quality_control_cron.sh /var/www/html/quality.kolmisoft.com/x4/mor/app /var/www/html/quality.kolmisoft.com/x4  >> /var/www/html/quality.kolmisoft.com/x4/log" > /etc/cron.d/x4_quality
+
+# Reek and RBP install:
+
+gem install reek
+gem install rails_best_practices
+
+
+# Apache config:
+
+echo "
+<VirtualHost *:80>
+    ServerName quality.kolmisoft.com
+    DocumentRoot /var/www/html/quality.kolmisoft.com
+</VirtualHost>
+
+" > /etc/httpd/conf.d/quality.conf
+
+service httpd restart
+
+
+# And you should point IP address to that virtual machine

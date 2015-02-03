@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7
+END
+fix_0.7.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/fix_0.7.sh
+END
+upgrade_db_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/13024/mor/install_script/trunk/upgrade/0.7/upgrade_db_data.sql
+END
+pdf_utf8_support.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/pdf_utf8_support.sh
+END
+upgrade_db_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/13024/mor/install_script/trunk/upgrade/0.7/upgrade_db_tables.sql
+END
+upgrade_db_permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/13024/mor/install_script/trunk/upgrade/0.7/upgrade_db_permissions.sql
+END
+upgrade_to_0.7.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/upgrade_to_0.7.sh
+END
+fix_pdfwrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/fix_pdfwrapper.sh
+END
+various_app_upgrades.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/various_app_upgrades.sh
+END
+gui_upgrade_light.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/gui_upgrade_light.sh
+END
+upgrade_db_hangupcausecodes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/13024/mor/install_script/trunk/upgrade/0.7/upgrade_db_hangupcausecodes.sql
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/13024/mor/install_script/trunk/upgrade/0.7/README
+END
+various_gui_upgrades.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/various_gui_upgrades.sh
+END
+upgrade_db_did_id.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/13024/mor/install_script/trunk/upgrade/0.7/upgrade_db_did_id.sh
+END
+various_common_upgrades.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/13024/mor/install_script/trunk/upgrade/0.7/various_common_upgrades.sh
+END
+gui_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/gui_upgrade.sh
+END
+upgrade_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.7/upgrade_db.sh
+END
+upgrade_db_currencies.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/13024/mor/install_script/trunk/upgrade/0.7/upgrade_db_currencies.sql
+END

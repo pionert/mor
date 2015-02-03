@@ -1,0 +1,18 @@
+# m2 configuration file
+
+DB_PRESENT=1
+GUI_PRESENT=1
+FREESWITCH_PRESENT=0
+ASTERISK_PRESENT=1
+
+# mysql settings
+BINLOG=0
+REPLICATION_M=0
+REPLICATION_S=0
+
+# database connection settings
+dbhost = localhost
+dbname = mor
+dbuser = mor
+dbsecret = mor
+dbport = 3306

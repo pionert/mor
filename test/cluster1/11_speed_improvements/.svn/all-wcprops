@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/42962/mor/install_script/trunk/test/cluster1/11_speed_improvements
+END
+mor_test_run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/42962/mor/install_script/trunk/test/cluster1/11_speed_improvements/mor_test_run.sh
+END

@@ -1,0 +1,14 @@
+Channel: Local/37052058393@mor/n
+#Channel: Local/37063042438@mor/n
+MaxRetries: 0
+RetryTime: 10
+WaitTime: 20
+Account: 30
+
+Context: mor
+Extension: 37052058394
+Priority: 1
+Set: MOR_CALLBACK=1
+Set: MOR_UID=1191777958.6
+Set: MOR_CALLBACK_SRC=37063042438
+Set: MOR_CALLBACK_START=1191954822

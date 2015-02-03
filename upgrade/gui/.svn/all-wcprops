@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5357/mor/install_script/trunk/upgrade/gui
+END
+gui_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/5357/mor/install_script/trunk/upgrade/gui/gui_upgrade.sh
+END
+mor_box.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/21/mor/install_script/trunk/upgrade/gui/mor_box.png
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/21/mor/install_script/trunk/upgrade/gui/index.html
+END
+gui_upgrade_light.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/5357/mor/install_script/trunk/upgrade/gui/gui_upgrade_light.sh
+END

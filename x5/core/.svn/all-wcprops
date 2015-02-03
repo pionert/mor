@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/52457/mor/install_script/trunk/x5/core
+END
+mor.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/50928/mor/install_script/trunk/x5/core/mor.conf
+END
+app_mor.so_64
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/52265/mor/install_script/trunk/x5/core/app_mor.so_64
+END
+core_install_brute.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/50957/mor/install_script/trunk/x5/core/core_install_brute.sh
+END
+core_install_10cc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/52457/mor/install_script/trunk/x5/core/core_install_10cc.sh
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/50138/mor/install_script/trunk/test/quality_control
+END
+reek.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/43327/mor/install_script/trunk/test/quality_control/reek.sh
+END
+quality_control_cron.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/45198/mor/install_script/trunk/test/quality_control/quality_control_cron.sh
+END
+rubocop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/44018/mor/install_script/trunk/test/quality_control/rubocop.sh
+END
+rails_best_practices.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/50137/mor/install_script/trunk/test/quality_control/rails_best_practices.yml
+END
+stop_quality_control.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/41816/mor/install_script/trunk/test/quality_control/stop_quality_control.sh
+END
+.rubocop.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/44351/mor/install_script/trunk/test/quality_control/.rubocop.yml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/45219/mor/install_script/trunk/test/quality_control/index.html
+END
+defaults.reek
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/43318/mor/install_script/trunk/test/quality_control/defaults.reek
+END
+rbp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/50138/mor/install_script/trunk/test/quality_control/rbp.sh
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/45219/mor/install_script/trunk/test/quality_control/favicon.ico
+END
+quality_control_install
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/42826/mor/install_script/trunk/test/quality_control/quality_control_install
+END
+start_quality_control.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/41816/mor/install_script/trunk/test/quality_control/start_quality_control.sh
+END

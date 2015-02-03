@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/55495/mor/install_script/trunk/x6/db
+END
+db_update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/52334/mor/install_script/trunk/x6/db/db_update.sh
+END
+beta_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/55495/mor/install_script/trunk/x6/db/beta_data.sql
+END
+beta_structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/55492/mor/install_script/trunk/x6/db/beta_structure.sql
+END

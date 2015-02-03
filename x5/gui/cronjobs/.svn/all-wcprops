@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/54036/mor/install_script/trunk/x5/gui/cronjobs
+END
+mor_daily_actions
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/50409/mor/install_script/trunk/x5/gui/cronjobs/mor_daily_actions
+END
+mor_hourly_actions
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/50409/mor/install_script/trunk/x5/gui/cronjobs/mor_hourly_actions
+END
+mor_monthly_actions
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/50409/mor/install_script/trunk/x5/gui/cronjobs/mor_monthly_actions
+END
+mor_logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/50956/mor/install_script/trunk/x5/gui/cronjobs/mor_logrotate
+END

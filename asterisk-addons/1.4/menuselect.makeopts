@@ -1,0 +1,6 @@
+MENUSELECT_APPS=app_addon_sql_mysql app_saycountpl 
+MENUSELECT_CDR=cdr_addon_mysql 
+MENUSELECT_CHANNELS=chan_ooh323 
+MENUSELECT_FORMATS=format_mp3 
+MENUSELECT_RES=
+MENUSELECT_BUILD_DEPS=

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/49744/mor/install_script/trunk/test/cluster1/crm
+END
+tickets_test_run2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/49744/mor/install_script/trunk/test/cluster1/crm/tickets_test_run2.sh
+END

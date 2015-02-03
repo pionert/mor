@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/50957/mor/install_script/trunk/x5/gui/gui_config_files
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/50409/mor/install_script/trunk/x5/gui/gui_config_files/database.yml
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/50957/mor/install_script/trunk/x5/gui/gui_config_files/environment.rb
+END

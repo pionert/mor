@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/55511/mor/install_script/trunk/test/scripts/asterisk
+END
+sip_registrations.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/46330/mor/install_script/trunk/test/scripts/asterisk/sip_registrations.sh
+END
+voicemail.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/33745/mor/install_script/trunk/test/scripts/asterisk/voicemail.sh
+END
+0_folder_separator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/0_folder_separator.sh
+END
+etc_asterisk_cli_aliases_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/55511/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_cli_aliases_conf.sh
+END
+fail2ban.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/fail2ban.sh
+END
+server_id.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/13834/mor/install_script/trunk/test/scripts/asterisk/server_id.sh
+END
+etc_asterisk_extensions_mor_ad_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_extensions_mor_ad_conf.sh
+END
+etc_asterisk_iax_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/53829/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_iax_conf.sh
+END
+asterisk_version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/38423/mor/install_script/trunk/test/scripts/asterisk/asterisk_version.sh
+END
+etc_asterisk_sip_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_sip_conf.sh
+END
+core_count.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/43756/mor/install_script/trunk/test/scripts/asterisk/core_count.sh
+END
+performance.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/42984/mor/install_script/trunk/test/scripts/asterisk/performance.sh
+END
+play_hgc_audio.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/play_hgc_audio.sh
+END
+contexts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/12698/mor/install_script/trunk/test/scripts/asterisk/contexts.sh
+END
+ivr_voices.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/20506/mor/install_script/trunk/test/scripts/asterisk/ivr_voices.sh
+END
+fax2email.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/36796/mor/install_script/trunk/test/scripts/asterisk/fax2email.sh
+END
+didww.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/19550/mor/install_script/trunk/test/scripts/asterisk/didww.sh
+END
+fix_asterisk_ulimit.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/40967/mor/install_script/trunk/test/scripts/asterisk/fix_asterisk_ulimit.sh
+END
+h323.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/h323.sh
+END
+asterisk_is_running.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/asterisk_is_running.sh
+END
+etc_asterisk_extensions_mor_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_extensions_mor_conf.sh
+END
+nat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/29962/mor/install_script/trunk/test/scripts/asterisk/nat.sh
+END
+etc_asterisk_extensions_mor_conf_h323_include.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_extensions_mor_conf_h323_include.sh
+END
+logrotates.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/38082/mor/install_script/trunk/test/scripts/asterisk/logrotates.sh
+END
+etc_asterisk_h323_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_h323_conf.sh
+END
+heartbeat_asterisk_binaddr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/9492/mor/install_script/trunk/test/scripts/asterisk/heartbeat_asterisk_binaddr.sh
+END
+autodialer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/41921/mor/install_script/trunk/test/scripts/asterisk/autodialer.sh
+END
+realtime_mysql_status.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/realtime_mysql_status.sh
+END
+skype.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/15035/mor/install_script/trunk/test/scripts/asterisk/skype.sh
+END
+etc_asterisk_extconfig_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_extconfig_conf.sh
+END
+mnp_cfgs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21794/mor/install_script/trunk/test/scripts/asterisk/mnp_cfgs.sh
+END
+mor_minute_actions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/43045/mor/install_script/trunk/test/scripts/asterisk/mor_minute_actions.sh
+END
+check_faxes_permissions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12806/mor/install_script/trunk/test/scripts/asterisk/check_faxes_permissions.sh
+END
+registration_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/registration_script.sh
+END
+codecs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/codecs.sh
+END
+external_did.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/external_did.sh
+END
+etc_asterisk_extensions_mor_conf_2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/etc_asterisk_extensions_mor_conf_2.sh
+END
+lame_converter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/36791/mor/install_script/trunk/test/scripts/asterisk/lame_converter.sh
+END

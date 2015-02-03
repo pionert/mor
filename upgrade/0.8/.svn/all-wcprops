@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/29012/mor/install_script/trunk/upgrade/0.8
+END
+various_gui_upgrades.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.8/various_gui_upgrades.sh
+END
+upgrade_db_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21/mor/install_script/trunk/upgrade/0.8/upgrade_db_data.sql
+END
+fix_0.8.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29012/mor/install_script/trunk/upgrade/0.8/fix_0.8.sh
+END
+gui_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19905/mor/install_script/trunk/upgrade/0.8/gui_upgrade.sh
+END
+upgrade_db_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21/mor/install_script/trunk/upgrade/0.8/upgrade_db_tables.sql
+END
+upgrade_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.8/upgrade_db.sh
+END
+upgrade_db_permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/21/mor/install_script/trunk/upgrade/0.8/upgrade_db_permissions.sql
+END
+upgrade_to_0.8.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.8/upgrade_to_0.8.sh
+END
+core_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.8/core_upgrade.sh
+END
+gui_upgrade_light.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19905/mor/install_script/trunk/upgrade/0.8/gui_upgrade_light.sh
+END
+various_app_upgrades.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/15004/mor/install_script/trunk/upgrade/0.8/various_app_upgrades.sh
+END
+hard_fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/21/mor/install_script/trunk/upgrade/0.8/hard_fix.sh
+END

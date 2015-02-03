@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/50806/mor/install_script/trunk/agi
+END
+callbackcf.call
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/13019/mor/install_script/trunk/agi/callbackcf.call
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/49625/mor/install_script/trunk/agi/install.sh
+END
+cagi.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/21/mor/install_script/trunk/agi/cagi.c
+END
+mor_cc_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/7243/mor/install_script/trunk/agi/mor_cc_external.c
+END
+mor_agi_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/10761/mor/install_script/trunk/agi/mor_agi_functions.c
+END
+mor_usevoucher.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/32021/mor/install_script/trunk/agi/mor_usevoucher.c
+END
+mor_mnp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/20726/mor/install_script/trunk/agi/mor_mnp.c
+END
+cagi.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/21/mor/install_script/trunk/agi/cagi.h
+END
+mor_callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/50806/mor/install_script/trunk/agi/mor_callback.c
+END
+mor_card_topup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/41496/mor/install_script/trunk/agi/mor_card_topup.c
+END
+mor_play_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/47124/mor/install_script/trunk/agi/mor_play_random.c
+END
+mor_tellbalance.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/15216/mor/install_script/trunk/agi/mor_tellbalance.c
+END
+mor_acc2user.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/21/mor/install_script/trunk/agi/mor_acc2user.c
+END
+mor_answer_mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/50756/mor/install_script/trunk/agi/mor_answer_mark.c
+END
+mor_pinless_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/49625/mor/install_script/trunk/agi/mor_pinless_control.c
+END
+mor_action_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/26526/mor/install_script/trunk/agi/mor_action_log.c
+END

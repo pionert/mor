@@ -1,0 +1,41 @@
+[mor_callingcard]
+
+exten => s,1,NoOp(MOR_CARD_USED: ${MOR_CARD_USED}, MOR_CARD_ID: ${MOR_CARD_ID}, MOR_DP_ID: ${MOR_DP_ID}, MOR_CC_DID: ${MOR_CC_DID}, MOR_CC_DST: ${MOR_CC_DST})
+exten => s,2,GotoIf($[${LEN(${MOR_CARD_ID})} = 0]?newcard,1)
+exten => s,3,Set(TIMEOUT(digit)=5)
+exten => s,4,Set(TIMEOUT(response)=10)
+exten => s,5,Set(LOOPCOUNT=0)
+exten => s,6,Background(mor/ivr_voices/${CHANNEL(LANGUAGE)}/cc_callingcard_choices)	
+exten => s,7,Waitexten(5)
+exten => s,8,Set(LOOPCOUNT=$[${LOOPCOUNT} + 1])
+exten => s,9,GotoIf($[${LOOPCOUNT} > 2]?end,1)
+exten => s,10,Goto(6)
+
+exten => i,1,Goto(s|1)
+exten => t,1,Goto(s|1)
+
+exten => 1,1,NoOp(Ask new dst)
+exten => 1,2,Set(MOR_CC_DST=)
+exten => 1,3,Goto(mor|${MOR_CC_DID}|1)
+
+exten => 2,1,NoOp(Dial same dst)
+exten => 2,2,Background(mor/ivr_voices/${CHANNEL(LANGUAGE)}/cc_dialing_previous_number)
+exten => 2,3,SayDigits(${MOR_CC_DST})
+exten => 2,4,Goto(mor|${MOR_CC_DST}|1)
+
+exten => 3,1,NoOp(Check balance)
+exten => 3,2,AGI(mor_tellbalance)
+exten => 3,3,Goto(s|1)
+
+exten => 4,1,NoOp(Reset Card)
+exten => 4,2,Set(MOR_CC_DST=)
+exten => 4,3,Set(MOR_CARD_ID=)
+exten => 4,4,Set(MOR_PINLESS_RESET=1)
+exten => 4,5,Goto(mor|${MOR_CC_DID}|1)
+
+exten => newcard,1,NoOp(User must use new card)
+exten => newcard,2,Set(MOR_CC_DST=)
+exten => newcard,3,Goto(mor|${MOR_CC_DID}|1)
+
+exten => end,1,Playback(mor/ivr_voices/${CHANNEL(LANGUAGE)}/cc_goodbye)
+exten => end,n,Hangup

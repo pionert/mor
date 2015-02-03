@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/55259/mor/install_script/trunk/x5/asterisk/agi
+END
+callbackcf.call
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/callbackcf.call
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/52877/mor/install_script/trunk/x5/asterisk/agi/install.sh
+END
+mor.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor.conf
+END
+cagi.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/53385/mor/install_script/trunk/x5/asterisk/agi/cagi.c
+END
+mor_cc_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_cc_external.c
+END
+mor_usevoucher.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_usevoucher.c
+END
+mor_agi_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_agi_functions.c
+END
+mor_mnp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_mnp.c
+END
+cagi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/cagi.h
+END
+mor_callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/55259/mor/install_script/trunk/x5/asterisk/agi/mor_callback.c
+END
+mor_card_topup.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/53831/mor/install_script/trunk/x5/asterisk/agi/mor_card_topup.c
+END
+mor_ad_agi.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_ad_agi.c
+END
+mor_play_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_play_random.c
+END
+mor_tellbalance.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_tellbalance.c
+END
+mor_acc2user.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_acc2user.c
+END
+mor_fax2email.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_fax2email.c
+END
+mor_answer_mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/55186/mor/install_script/trunk/x5/asterisk/agi/mor_answer_mark.c
+END
+mor_pinless_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_pinless_control.c
+END
+mor_action_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/50938/mor/install_script/trunk/x5/asterisk/agi/mor_action_log.c
+END

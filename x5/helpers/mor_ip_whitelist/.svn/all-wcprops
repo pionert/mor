@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55083/mor/install_script/trunk/x5/helpers/mor_ip_whitelist
+END
+install_mor_ip_whitelist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/55083/mor/install_script/trunk/x5/helpers/mor_ip_whitelist/install_mor_ip_whitelist.sh
+END
+mor_ip_whitelist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/55081/mor/install_script/trunk/x5/helpers/mor_ip_whitelist/mor_ip_whitelist.sh
+END

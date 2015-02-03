@@ -1,0 +1,74 @@
+MOR/Kolmisoft 2009
+---------------------------------------
+
+These scripts creates SSH connection between MOR GUI and APP server.
+
+This connection is used to manage files/folders on APP servers when sound files are uploaded to GUI server.
+
+Installation instruction:
+
+1. On GUI server execute ssh_prepare_gui_server.sh - read inside code to login as apache to generate key
+2. On APP server run ssh_prepare_app_server.sh
+3. On GUI server run ssh_activate_app_server.sh
+ 
+Repeat 2-3 steps for each Asterisk server.
+
+NOTE: Do not repeat step 1!
+
+4. On GUI server execute: rm -fr /var/www/html/id_rsa.pub 
+
+
+--------------------------------
+
+Manual configuration:
+
+On GUI server:
+
+ifconfig <and mark IP of GUI server>
+
+rm /var/www/.ssh/id_rsa
+rm /var/www/.ssh/id_rsa.pub
+su apache
+ssh-keygen -t rsa
+<Press ENTER 3 times>
+exit
+
+chmod 700 /var/www/.ssh
+cp /var/www/.ssh/id_rsa.pub /var/www/html
+
+
+On APP (Remote) server:
+
+# move old pub file (backup)
+cd /root
+mv id_rsa.pub id_rsa.pb.old
+
+#  download pub key from GUI server
+wget http://<GUI_SERVER_IP>/id_rsa.pub
+
+mkdir /root/.ssh
+touch /root/.ssh/authorized_keys
+chmod 600 /root/.ssh/authorized_keys
+chmod 700 /root/.ssh
+
+# include pub key into authorize_keys file
+cat /root/id_rsa.pub >> /root/.ssh/authorized_keys
+rm -rf /root/id_rsa.pub
+
+ifconfig <and mark IP of APP server>
+
+
+On GUI server:
+
+su apache
+ssh -o StrictHostKeyChecking=no root@<IP of APP server> -f "exit"
+
+#test
+ssh root@<IP of APP server>
+ifconfig
+
+#should see that you are on APP server
+# log out
+exit
+
+rm -fr /var/www/html/id_rsa.pub 

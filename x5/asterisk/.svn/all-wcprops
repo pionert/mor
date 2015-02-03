@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/55690/mor/install_script/trunk/x5/asterisk
+END
+codecs_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/50912/mor/install_script/trunk/x5/asterisk/codecs_install.sh
+END
+asterisk_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/53945/mor/install_script/trunk/x5/asterisk/asterisk_install.sh
+END
+menuselect.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/53943/mor/install_script/trunk/x5/asterisk/menuselect.makeopts
+END
+queues_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/54747/mor/install_script/trunk/x5/asterisk/queues_install.sh
+END
+spandsp_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/50901/mor/install_script/trunk/x5/asterisk/spandsp_install.sh
+END
+srtp_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/50901/mor/install_script/trunk/x5/asterisk/srtp_install.sh
+END
+asterisk_init
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/49929/mor/install_script/trunk/x5/asterisk/asterisk_init
+END
+sounds_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/53155/mor/install_script/trunk/x5/asterisk/sounds_install.sh
+END
+menuselect.makedeps
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/49929/mor/install_script/trunk/x5/asterisk/menuselect.makedeps
+END

@@ -1,0 +1,3 @@
+[from-didww]
+exten => _X.,1,Set(CDR(ACCOUNTCODE)=0)
+exten => _X.,2,Goto(mor,${EXTEN},1)

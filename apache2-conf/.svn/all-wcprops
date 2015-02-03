@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/21/mor/install_script/trunk/apache2-conf
+END
+fcgid.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/21/mor/install_script/trunk/apache2-conf/fcgid.conf
+END
+default
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/21/mor/install_script/trunk/apache2-conf/default
+END
+fcgid.load
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/21/mor/install_script/trunk/apache2-conf/fcgid.load
+END

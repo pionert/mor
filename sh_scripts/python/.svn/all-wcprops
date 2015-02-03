@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/python
+END
+mor_py_library.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/python/mor_py_library.py
+END
+mor_py_library.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/python/mor_py_library.pyc
+END
+ssh_key_verification.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/python/ssh_key_verification.py
+END

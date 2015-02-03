@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/55745/mor/install_script/trunk/x6/scripts
+END
+mor_server_loadstats_service
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_server_loadstats_service
+END
+mor_musiconhold.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_musiconhold.c
+END
+mor_background_tasks.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/55174/mor/install_script/trunk/x6/scripts/mor_background_tasks.c
+END
+mor_provider_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_provider_check.c
+END
+mor_alerts_service
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_alerts_service
+END
+mor_record_remote.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_record_remote.c
+END
+mor_blacklisting_script.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_blacklisting_script.c
+END
+mor_archive_old_calls.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/55370/mor/install_script/trunk/x6/scripts/mor_archive_old_calls.c
+END
+blacklist.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/blacklist.conf
+END
+convert_mp3wav2astwav.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/convert_mp3wav2astwav.sh
+END
+mor_aggregates_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/54913/mor/install_script/trunk/x6/scripts/mor_aggregates_functions.c
+END
+mor_ast_sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_ast_sip.c
+END
+mor_ad_cron.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_ad_cron.c
+END
+mor_queues.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/54673/mor/install_script/trunk/x6/scripts/mor_queues.c
+END
+mor_aggregates.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55156/mor/install_script/trunk/x6/scripts/mor_aggregates.c
+END
+mor_aggregates_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/55156/mor/install_script/trunk/x6/scripts/mor_aggregates_control.c
+END
+mor_cdr_rerate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55745/mor/install_script/trunk/x6/scripts/mor_cdr_rerate.c
+END
+mor_wav2mp3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_wav2mp3
+END
+mor_aggregates.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/54913/mor/install_script/trunk/x6/scripts/mor_aggregates.h
+END
+mor_cdr_rerate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55231/mor/install_script/trunk/x6/scripts/mor_cdr_rerate.h
+END
+mor_invoices.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/55641/mor/install_script/trunk/x6/scripts/mor_invoices.c
+END
+mor_ast_generate_ivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_ast_generate_ivr.c
+END
+mor_server_loadstats.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/54834/mor/install_script/trunk/x6/scripts/mor_server_loadstats.c
+END
+mor_invoices.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/55174/mor/install_script/trunk/x6/scripts/mor_invoices.h
+END
+mor_ast_device_subnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_ast_device_subnet.c
+END
+mor_ast_h323.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_ast_h323.c
+END
+mor_extensions_queues.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/54676/mor/install_script/trunk/x6/scripts/mor_extensions_queues.c
+END
+scripts_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/55520/mor/install_script/trunk/x6/scripts/scripts_install.sh
+END
+mor_send_email_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_send_email_api.c
+END
+mor_alerts.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/54917/mor/install_script/trunk/x6/scripts/mor_alerts.c
+END
+mor_ast_register.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/55521/mor/install_script/trunk/x6/scripts/mor_ast_register.c
+END
+mor_delete_old_rates.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/55210/mor/install_script/trunk/x6/scripts/mor_delete_old_rates.c
+END
+mor_alerts.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_alerts.h
+END
+mor_ast_skype.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_ast_skype.c
+END
+sendEmail
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/sendEmail
+END
+crc64.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/crc64.c
+END
+mor_ast_extensions.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/54826/mor/install_script/trunk/x6/scripts/mor_ast_extensions.c
+END
+mor_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/55379/mor/install_script/trunk/x6/scripts/mor_functions.c
+END
+mor_aggregates_service
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_aggregates_service
+END
+mor_record_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/55371/mor/install_script/trunk/x6/scripts/mor_record_file.c
+END
+mor_record_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/54297/mor/install_script/trunk/x6/scripts/mor_record_control.c
+END

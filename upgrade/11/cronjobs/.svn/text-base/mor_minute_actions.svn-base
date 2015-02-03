@@ -1,0 +1,2 @@
+# update peer information from Asterisk to DB
+* * * * * root /usr/local/mor/mor_retrieve_peers

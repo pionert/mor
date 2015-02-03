@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/20401/mor/install_script/trunk/asterisk-conf/9
+END
+sip.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/10248/mor/install_script/trunk/asterisk-conf/9/sip.conf
+END
+extensions_mor.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/20401/mor/install_script/trunk/asterisk-conf/9/extensions_mor.conf
+END
+extensions_mor_external_did.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10764/mor/install_script/trunk/asterisk-conf/9/extensions_mor_external_did.conf
+END
+extensions_mor_pbxfunctions.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/10764/mor/install_script/trunk/asterisk-conf/9/extensions_mor_pbxfunctions.conf
+END
+extensions_mor_callingcard.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/6524/mor/install_script/trunk/asterisk-conf/9/extensions_mor_callingcard.conf
+END
+extensions_mor_ad.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/7851/mor/install_script/trunk/asterisk-conf/9/extensions_mor_ad.conf
+END
+iax.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/6579/mor/install_script/trunk/asterisk-conf/9/iax.conf
+END
+modules.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/11773/mor/install_script/trunk/asterisk-conf/9/modules.conf
+END

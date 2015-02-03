@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/54525/mor/install_script/trunk/test/cluster1
+END
+hp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28087/mor/install_script/trunk/test/cluster1/hp.sh
+END
+rebuild_mysql_ram.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/40220/mor/install_script/trunk/test/cluster1/rebuild_mysql_ram.sh
+END

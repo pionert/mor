@@ -1,0 +1,30 @@
+MethodLength:
+  CountComments: false # count full line comments?
+  Max: 25
+  
+LineLength:
+  Max: 120 
+  
+# we're using hash this way
+# {one: 1, two: 2}
+# (without spaces arround braces)
+
+SpaceInsideHashLiteralBraces:
+  EnforcedStyle: no_space
+
+# checking that we use this case variant
+# output = case variable
+#            when 'value1'
+#              'output1'
+#            else
+#              'output2'
+#          end
+#
+# That is, indent relative to case and using one step indentation
+
+CaseIndentation:
+  IndentWhenRelativeTo: case
+  IndentOneStep: true
+
+  
+  

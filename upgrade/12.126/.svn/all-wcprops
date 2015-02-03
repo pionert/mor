@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/55353/mor/install_script/trunk/upgrade/12.126
+END
+fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/55353/mor/install_script/trunk/upgrade/12.126/fix.sh
+END
+mnp_reenable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26301/mor/install_script/trunk/upgrade/12.126/mnp_reenable.sh
+END
+gui_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/34071/mor/install_script/trunk/upgrade/12.126/gui_upgrade.sh
+END
+stable_revision
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/43771/mor/install_script/trunk/upgrade/12.126/stable_revision
+END
+gui_upgrade_light.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/34071/mor/install_script/trunk/upgrade/12.126/gui_upgrade_light.sh
+END
+device_provider_subnet_support.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/30836/mor/install_script/trunk/upgrade/12.126/device_provider_subnet_support.sh
+END

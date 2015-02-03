@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/45962/mor/install_script/trunk/ami
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/45962/mor/install_script/trunk/ami/install.sh
+END
+mor_retrieve_peers.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/45962/mor/install_script/trunk/ami/mor_retrieve_peers.c
+END
+mor_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/45962/mor/install_script/trunk/ami/mor_functions.c
+END
+net.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/15222/mor/install_script/trunk/ami/net.c
+END
+admin.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/45962/mor/install_script/trunk/ami/admin.c
+END
+channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/15222/mor/install_script/trunk/ami/channel.c
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/15222/mor/install_script/trunk/ami/core.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/15222/mor/install_script/trunk/ami/config.h
+END
+manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/15222/mor/install_script/trunk/ami/manager.c
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/26608/mor/install_script/trunk/ami/info.c
+END
+net.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/15222/mor/install_script/trunk/ami/net.h
+END
+libami.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/15222/mor/install_script/trunk/ami/libami.c
+END

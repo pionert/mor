@@ -1,0 +1,9 @@
+Channel: Local/0037068547770@mor_ad_exec/n
+MaxRetries: 0
+RetryTime:10
+WaitTime: 20
+Account: 1
+Context: mor_ad_play
+Extension: 0037068547770
+Priority: 1
+Set: MOR_AD_CAMPAIGN_ID=1

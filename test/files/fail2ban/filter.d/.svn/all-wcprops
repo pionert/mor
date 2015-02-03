@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/42837/mor/install_script/trunk/test/files/fail2ban/filter.d
+END
+asterisk_cli.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/37870/mor/install_script/trunk/test/files/fail2ban/filter.d/asterisk_cli.conf
+END
+mor.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/41077/mor/install_script/trunk/test/files/fail2ban/filter.d/mor.conf
+END
+asterisk_manager.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/39277/mor/install_script/trunk/test/files/fail2ban/filter.d/asterisk_manager.conf
+END
+sshd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/32413/mor/install_script/trunk/test/files/fail2ban/filter.d/sshd.conf
+END
+asterisk.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/35459/mor/install_script/trunk/test/files/fail2ban/filter.d/asterisk.conf
+END
+mor_ddos.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/42837/mor/install_script/trunk/test/files/fail2ban/filter.d/mor_ddos.conf
+END
+asterisk_hgc_200.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/38295/mor/install_script/trunk/test/files/fail2ban/filter.d/asterisk_hgc_200.conf
+END

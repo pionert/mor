@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28546/mor/install_script/trunk/test/node2/brain-scripts
+END
+requester.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/26620/mor/install_script/trunk/test/node2/brain-scripts/requester.rb
+END
+reporter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/26621/mor/install_script/trunk/test/node2/brain-scripts/reporter.rb
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28546/mor/install_script/trunk/test/node2/brain-scripts/config.yml
+END

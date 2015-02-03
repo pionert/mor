@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/55643/mor/install_script/trunk/upgrade
+END
+upgrade_to_0.6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15004/mor/install_script/trunk/upgrade/upgrade_to_0.6.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/21/mor/install_script/trunk/upgrade/README
+END

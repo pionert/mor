@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/52060/mor/install_script/trunk/mor_ad
+END
+ad_callfile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/21/mor/install_script/trunk/mor_ad/ad_callfile
+END
+silence1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/21/mor/install_script/trunk/mor_ad/silence1.wav
+END
+mor_ad_cron
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/52060/mor/install_script/trunk/mor_ad/mor_ad_cron
+END
+mor_ad_cron.log
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/21/mor/install_script/trunk/mor_ad/mor_ad_cron.log
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/21/mor/install_script/trunk/mor_ad/Makefile
+END

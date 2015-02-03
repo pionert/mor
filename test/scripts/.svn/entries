@@ -1,0 +1,80 @@
+10
+
+dir
+55785
+http://svn.kolmisoft.com/mor/install_script/trunk/test/scripts
+http://svn.kolmisoft.com
+
+
+
+2015-01-26T06:33:11.610583Z
+55511
+gilbertasm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19941b1f-7a74-413c-ab52-0de3e92e9a87
+
+0_before
+dir
+
+DO_NOT_COMMIT_HERE_SCRIPTS_WHICH_ARE_NOT_A_PART_OF_TEST_FRAMEWORK.txt
+file
+
+
+
+
+2015-02-03T15:35:20.760826Z
+9bfe0eced5ae7b8a3c4c6a99ec65f7ed
+2013-01-02T11:57:59.395470Z
+32978
+mindaugasm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100
+
+gui
+dir
+
+asterisk
+dir
+
+information
+dir
+
+mysql
+dir
+
+various
+dir
+

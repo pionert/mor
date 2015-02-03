@@ -1,0 +1,138 @@
+10
+
+dir
+55785
+http://svn.kolmisoft.com/mor/install_script/trunk/upgrade
+http://svn.kolmisoft.com
+
+
+
+2015-01-28T14:30:01.648546Z
+55643
+aisteb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19941b1f-7a74-413c-ab52-0de3e92e9a87
+
+10
+dir
+
+11
+dir
+
+12
+dir
+
+gui
+dir
+
+upgrade_to_0.6.sh
+file
+
+
+
+
+2015-02-03T15:35:54.417826Z
+700fcf2c0dac9ffa7b08801d36d9b836
+2011-08-03T11:02:47.081697Z
+15004
+mindaugasm
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4791
+
+db
+dir
+
+various
+dir
+
+12.126
+dir
+
+x4
+dir
+
+x5
+dir
+
+README
+file
+
+
+
+
+2015-02-03T15:35:54.417826Z
+7b7b9c0e99efd9795b52e24fe5d33676
+2010-01-02T13:50:02.141737Z
+21
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
+
+trunk
+dir
+
+0.7
+dir
+
+0.8
+dir
+
+conf_files
+dir
+
+9
+dir
+

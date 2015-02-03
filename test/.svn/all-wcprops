@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/55598/mor/install_script/trunk/test
+END
+restart_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/55598/mor/install_script/trunk/test/restart_tests.sh
+END
+stop_tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/38800/mor/install_script/trunk/test/stop_tests.sh
+END
+which_version_is_bigger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/8029/mor/install_script/trunk/test/which_version_is_bigger.rb
+END
+prepare_db_for_intervention.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/41290/mor/install_script/trunk/test/prepare_db_for_intervention.sh
+END
+code_quality_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/37873/mor/install_script/trunk/test/code_quality_test.sh
+END
+stress.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/32239/mor/install_script/trunk/test/stress.sh
+END
+strip_replace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/31459/mor/install_script/trunk/test/strip_replace.rb
+END
+zabbix_monitor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/41037/mor/install_script/trunk/test/zabbix_monitor.sh
+END
+tests_checker.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/27673/mor/install_script/trunk/test/tests_checker.sh
+END
+test_monitor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/33581/mor/install_script/trunk/test/test_monitor.sh
+END
+ha.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/42051/mor/install_script/trunk/test/ha.sh
+END
+check_revision.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/53216/mor/install_script/trunk/test/check_revision.sh
+END
+info.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25941/mor/install_script/trunk/test/info.sh
+END
+launcher.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/47198/mor/install_script/trunk/test/launcher.sh
+END
+reset_production_node_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/38046/mor/install_script/trunk/test/reset_production_node_db.sh
+END
+server_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/35443/mor/install_script/trunk/test/server_check.sh
+END
+test-fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/53226/mor/install_script/trunk/test/test-fix.sh
+END

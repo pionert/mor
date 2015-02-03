@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/54863/mor/install_script/trunk/x5/helpers/zabbix
+END
+restart_httpd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/54439/mor/install_script/trunk/x5/helpers/zabbix/restart_httpd.sh
+END
+s3_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/54439/mor/install_script/trunk/x5/helpers/zabbix/s3_check.sh
+END
+zabbix_agent_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/54439/mor/install_script/trunk/x5/helpers/zabbix/zabbix_agent_install.sh
+END
+mor
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/54863/mor/install_script/trunk/x5/helpers/zabbix/mor
+END

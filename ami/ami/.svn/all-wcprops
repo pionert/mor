@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/15222/mor/install_script/trunk/ami/ami
+END
+manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/15222/mor/install_script/trunk/ami/ami/manager.h
+END
+info.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/15222/mor/install_script/trunk/ami/ami/info.h
+END
+ami.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/15222/mor/install_script/trunk/ami/ami/ami.h
+END
+admin.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/15222/mor/install_script/trunk/ami/ami/admin.h
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/15222/mor/install_script/trunk/ami/ami/channel.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/15222/mor/install_script/trunk/ami/ami/core.h
+END

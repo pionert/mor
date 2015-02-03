@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/50962/mor/install_script/trunk/x5/maintenance/test_fix_scripts/0_before
+END
+ha.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/50931/mor/install_script/trunk/x5/maintenance/test_fix_scripts/0_before/ha.sh
+END
+list_components.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/50962/mor/install_script/trunk/x5/maintenance/test_fix_scripts/0_before/list_components.sh
+END

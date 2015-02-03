@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/8123/mor/install_script/trunk/fax2email/additional_apps/apps
+END
+app_rxfax.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21/mor/install_script/trunk/fax2email/additional_apps/apps/app_rxfax.c
+END
+app_nv_faxdetect.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/6933/mor/install_script/trunk/fax2email/additional_apps/apps/app_nv_faxdetect.c
+END
+app_txfax.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21/mor/install_script/trunk/fax2email/additional_apps/apps/app_txfax.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/21/mor/install_script/trunk/fax2email/additional_apps/apps/Makefile
+END

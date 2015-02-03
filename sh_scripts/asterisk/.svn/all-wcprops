@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/54122/mor/install_script/trunk/sh_scripts/asterisk
+END
+codecs_install_ast18.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/22542/mor/install_script/trunk/sh_scripts/asterisk/codecs_install_ast18.sh
+END
+install_asterisk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/38575/mor/install_script/trunk/sh_scripts/asterisk/install_asterisk.sh
+END
+asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22542/mor/install_script/trunk/sh_scripts/asterisk/asterisk
+END
+upgrade_asterisk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/48071/mor/install_script/trunk/sh_scripts/asterisk/upgrade_asterisk.sh
+END
+menuselect.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/36699/mor/install_script/trunk/sh_scripts/asterisk/menuselect.makeopts
+END
+configure_additional_asterisk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/31597/mor/install_script/trunk/sh_scripts/asterisk/configure_additional_asterisk.sh
+END
+spandsp_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/24223/mor/install_script/trunk/sh_scripts/asterisk/spandsp_install.sh
+END
+srtp_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/24240/mor/install_script/trunk/sh_scripts/asterisk/srtp_install.sh
+END
+asterisk_redhat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/20581/mor/install_script/trunk/sh_scripts/asterisk/asterisk_redhat
+END
+menuselect.makedeps
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/36699/mor/install_script/trunk/sh_scripts/asterisk/menuselect.makedeps
+END
+asterisk_patch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/53941/mor/install_script/trunk/sh_scripts/asterisk/asterisk_patch.sh
+END

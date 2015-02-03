@@ -1,0 +1,1 @@
+*/5 * * * * root /usr/local/mor/mor_provider_check >> /var/log/mor/provider_check.log

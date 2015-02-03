@@ -1,0 +1,83 @@
+10
+
+dir
+55785
+http://svn.kolmisoft.com/mor/install_script/trunk/x5/maintenance/test_fix_scripts
+http://svn.kolmisoft.com
+
+
+
+2015-02-03T07:16:13.211703Z
+55758
+nerijuss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19941b1f-7a74-413c-ab52-0de3e92e9a87
+
+0_before
+dir
+
+DO_NOT_COMMIT_HERE_SCRIPTS_WHICH_ARE_NOT_A_PART_OF_TEST_FRAMEWORK.txt
+file
+
+
+
+
+2015-02-03T15:36:01.033826Z
+9bfe0eced5ae7b8a3c4c6a99ec65f7ed
+2014-08-14T12:41:43.969144Z
+50931
+svnuser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100
+
+gui
+dir
+
+asterisk
+dir
+
+information
+dir
+
+mysql
+dir
+
+scripts
+dir
+
+various
+dir
+

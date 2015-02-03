@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/21/mor/install_script/trunk/db/recreate_destinations
+END
+ATTENTION-README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21/mor/install_script/trunk/db/recreate_destinations/ATTENTION-README
+END
+mor_recreate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21/mor/install_script/trunk/db/recreate_destinations/mor_recreate.sql
+END
+recreate_destinations.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/21/mor/install_script/trunk/db/recreate_destinations/recreate_destinations.sh
+END

@@ -1,0 +1,8 @@
+host = localhost
+db = mor
+user = mor
+secret = mor
+port = 3306
+
+show_sql = 0
+debug = 1

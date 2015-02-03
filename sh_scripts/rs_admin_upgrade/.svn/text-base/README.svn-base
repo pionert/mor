@@ -1,0 +1,30 @@
+THIS SCRIPT IS DEDICATED FOR RESELLER UPGRADE TO ADMIN (TO SEPARATE SYSTEM)
+E.G. RESELLER BECOMES ADMIN
+
+IMPORTANT!
+---------------
+1. This script is made for MOR X4 Reseller upgrade to Admin, NOT FOR RS PRO!!!
+2. Database which has millions of calls will take hours to process, be patient, check top mysql processs to make sure it is working
+
+
+HOW IT WORKS
+---------------
+Script deletes all non-relevant info from DB and "upgrades" Reseller to Admin together with all his related data.
+
+
+HOW TO USE IT
+---------------
+1. Make full backup of DB from which you want to upgrade reseller to admin (mysqldump -u mor -pmor mor > mor.sql)
+2. Prepare new server with fresh MOR X4 installation
+3. Copy mor.sql file to the new server and import this file to the server (mysql -u mor -pmor mor < mor.sql)
+4. Check the ID of the Reseller (FRIENDLY advide: if you don't know how to do this - abort the task and hand it over to your colleague)
+5. Open file /usr/src/mor/sh_scripts/rs_admin_upgrade/db_changes.sql and replace all numbers '5' to your Reseller ID, save and close
+6. Open same file again, search for '5' (without quotes). If you find at least one appearance of this - go back to step 5 and repeat
+7. Run screen and within it execute ./rs_admin_upgrade.sh
+8. Enjoy the view, report errors to MK (also send rs_admin_upgrade.log)
+9. When finished, pcrack, login to GUI and walk around, test as much as you can
+
+
+SPEED
+----------------
+VM 1 Gb RAM, 2 Cores, Slow 7200rpm HDD, 3 million calls, execution time: 1:30

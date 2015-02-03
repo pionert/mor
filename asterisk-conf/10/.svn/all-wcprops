@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/25118/mor/install_script/trunk/asterisk-conf/10
+END
+extensions_mor_callingcard.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/25118/mor/install_script/trunk/asterisk-conf/10/extensions_mor_callingcard.conf
+END
+chan_skype.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/11334/mor/install_script/trunk/asterisk-conf/10/chan_skype.conf
+END
+extensions_mor_anipin.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/14516/mor/install_script/trunk/asterisk-conf/10/extensions_mor_anipin.conf
+END

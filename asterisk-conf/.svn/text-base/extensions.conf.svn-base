@@ -1,0 +1,99 @@
+; extensions.conf - the Asterisk dial plan
+;
+; Static extension configuration file, used by
+; the pbx_config module. This is where you configure all your 
+; inbound and outbound calls in Asterisk. 
+; 
+; This configuration file is reloaded 
+; - With the "dialplan reload" command in the CLI
+; - With the "reload" command (that reloads everything) in the CLI
+
+;
+; The "General" category is for certain variables.  
+;
+[general]
+;
+; If static is set to no, or omitted, then the pbx_config will rewrite
+; this file when extensions are modified.  Remember that all comments
+; made in the file will be lost when that happens. 
+;
+; XXX Not yet implemented XXX
+;
+static=yes
+;
+; if static=yes and writeprotect=no, you can save dialplan by
+; CLI command "dialplan save" too
+;
+writeprotect=no
+;
+; If autofallthrough is set, then if an extension runs out of
+; things to do, it will terminate the call with BUSY, CONGESTION
+; or HANGUP depending on Asterisk's best guess. This is the default.
+;
+; If autofallthrough is not set, then if an extension runs out of 
+; things to do, Asterisk will wait for a new extension to be dialed 
+; (this is the original behavior of Asterisk 1.0 and earlier).
+;
+;autofallthrough=no
+;
+; If clearglobalvars is set, global variables will be cleared 
+; and reparsed on an extensions reload, or Asterisk reload.
+;
+; If clearglobalvars is not set, then global variables will persist
+; through reloads, and even if deleted from the extensions.conf or
+; one of its included files, will remain set to the previous value.
+;
+; NOTE: A complication sets in, if you put your global variables into
+; the AEL file, instead of the extensions.conf file. With clearglobalvars
+; set, a "reload" will often leave the globals vars cleared, because it
+; is not unusual to have extensions.conf (which will have no globals)
+; load after the extensions.ael file (where the global vars are stored).
+; So, with "reload" in this particular situation, first the AEL file will
+; clear and then set all the global vars, then, later, when the extensions.conf
+; file is loaded, the global vars are all cleared, and then not set, because
+; they are not stored in the extensions.conf file.
+;
+clearglobalvars=no
+;
+; If priorityjumping is set to 'yes', then applications that support
+; 'jumping' to a different priority based on the result of their operations
+; will do so (this is backwards compatible behavior with pre-1.2 releases
+; of Asterisk). Individual applications can also be requested to do this
+; by passing a 'j' option in their arguments.
+;
+;priorityjumping=yes
+;
+; User context is where entries from users.conf are registered.  The
+; default value is 'default'
+;
+;userscontext=default
+;
+; You can include other config files, use the #include command
+; (without the ';'). Note that this is different from the "include" command
+; that includes contexts within other contexts. The #include command works
+; in all asterisk configuration files.
+;#include "filename.conf"
+
+; The "Globals" category contains global variables that can be referenced
+; in the dialplan with the GLOBAL dialplan function:
+; ${GLOBAL(VARIABLE)}
+; ${${GLOBAL(VARIABLE)}} or ${text${GLOBAL(VARIABLE)}} or any hybrid
+; Unix/Linux environmental variables can be reached with the ENV dialplan
+; function: ${ENV(VARIABLE)}
+;
+[globals]
+;CONSOLE=Console/dsp				; Console interface for demo
+;CONSOLE=Zap/1
+;CONSOLE=Phone/phone0
+;IAXINFO=guest					; IAXtel username/password
+;IAXINFO=myuser:mypass
+;TRUNK=Zap/G2					; Trunk interface
+
+; necessary to be safe using transfers bacause local caller cannot transfer to mor_local, but only to mor and go over mor core and call will be billed
+TRANSFER_CONTEXT=mor
+
+
+
+;MOR Configuration
+#include extensions_mor.conf
+

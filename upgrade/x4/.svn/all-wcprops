@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/55643/mor/install_script/trunk/upgrade/x4
+END
+ruby_1_9_3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/43058/mor/install_script/trunk/upgrade/x4/ruby_1_9_3.sh
+END
+sipchaning.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/43325/mor/install_script/trunk/upgrade/x4/sipchaning.rb
+END
+sessions_fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/36427/mor/install_script/trunk/upgrade/x4/sessions_fix.sh
+END
+ccl_normalize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/36613/mor/install_script/trunk/upgrade/x4/ccl_normalize.sh
+END
+nodejs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/32762/mor/install_script/trunk/upgrade/x4/nodejs.sh
+END
+gui_upgrade_light.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/43630/mor/install_script/trunk/upgrade/x4/gui_upgrade_light.sh
+END
+mor_ruby
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/43039/mor/install_script/trunk/upgrade/x4/mor_ruby
+END
+passenger.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/44349/mor/install_script/trunk/upgrade/x4/passenger.sh
+END
+migrate_add.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/37393/mor/install_script/trunk/upgrade/x4/migrate_add.rb
+END
+alerts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/52023/mor/install_script/trunk/upgrade/x4/alerts.sh
+END
+bundler.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/43628/mor/install_script/trunk/upgrade/x4/bundler.sh
+END
+queues_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/38205/mor/install_script/trunk/upgrade/x4/queues_install.sh
+END
+utf_fix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/32485/mor/install_script/trunk/upgrade/x4/utf_fix.rb
+END
+sipchan_migration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/46570/mor/install_script/trunk/upgrade/x4/sipchan_migration.sh
+END
+core_gui_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/41953/mor/install_script/trunk/upgrade/x4/core_gui_db.sh
+END
+db_fix_utf8.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/32485/mor/install_script/trunk/upgrade/x4/db_fix_utf8.sh
+END
+fix_provider_device_server_dependencies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/41619/mor/install_script/trunk/upgrade/x4/fix_provider_device_server_dependencies.rb
+END
+rvm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/32784/mor/install_script/trunk/upgrade/x4/rvm.sh
+END
+ccl_normalize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/36633/mor/install_script/trunk/upgrade/x4/ccl_normalize.rb
+END
+monitorings_to_alerts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/40117/mor/install_script/trunk/upgrade/x4/monitorings_to_alerts.rb
+END
+percona_call_details_index.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/42185/mor/install_script/trunk/upgrade/x4/percona_call_details_index.sh
+END
+stable_revision
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/55643/mor/install_script/trunk/upgrade/x4/stable_revision
+END
+background_tasks.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/41945/mor/install_script/trunk/upgrade/x4/background_tasks.sh
+END
+fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/55467/mor/install_script/trunk/upgrade/x4/fix.sh
+END
+mnp_reenable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/32485/mor/install_script/trunk/upgrade/x4/mnp_reenable.sh
+END
+core_gui_db.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/37655/mor/install_script/trunk/upgrade/x4/core_gui_db.rb
+END
+gui_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/43629/mor/install_script/trunk/upgrade/x4/gui_upgrade.sh
+END
+live_calls_table_migration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/38613/mor/install_script/trunk/upgrade/x4/live_calls_table_migration.sh
+END
+migrate_add.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/39412/mor/install_script/trunk/upgrade/x4/migrate_add.sh
+END
+assets_recompile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/43250/mor/install_script/trunk/upgrade/x4/assets_recompile.sh
+END
+live_very_big_db_migration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/42353/mor/install_script/trunk/upgrade/x4/live_very_big_db_migration.sh
+END

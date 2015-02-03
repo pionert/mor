@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/52857/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui
+END
+memcached.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/50966/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/memcached.sh
+END
+encodings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/50956/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/encodings.sh
+END
+0_folder_separator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/0_folder_separator.sh
+END
+ssl_enabled.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/ssl_enabled.sh
+END
+permissions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/52476/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/permissions.sh
+END
+apache_is_running.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/apache_is_running.sh
+END
+add_ast18_variable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/52677/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/add_ast18_variable.sh
+END
+database_yml_strict.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/52677/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/database_yml_strict.sh
+END
+xsendfile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/50956/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/xsendfile.sh
+END
+logrotates.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/logrotates.sh
+END
+modified_gui.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/modified_gui.sh
+END
+101_user_pass.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/101_user_pass.sh
+END
+gui_bottom_version_number.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/gui_bottom_version_number.sh
+END
+ssl_fix_heartbleed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/ssl_fix_heartbleed.sh
+END
+passenger.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/50956/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/passenger.sh
+END
+mysql_is_located_on_remote_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/mysql_is_located_on_remote_server.sh
+END
+mor_gui_crontabs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/52524/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/mor_gui_crontabs.sh
+END
+gui_revision_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/52453/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/gui_revision_check.sh
+END
+recordings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/recordings.sh
+END
+web_url.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/web_url.sh
+END
+gui_access_from_localhost.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/52857/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/gui_access_from_localhost.sh
+END
+fix_gui_symlink.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/fix_gui_symlink.sh
+END
+client_tag.sh_disabled
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/50961/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/client_tag.sh_disabled
+END
+101.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/101.sh
+END
+svn_repo_accessibility.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/svn_repo_accessibility.sh
+END
+gmt_time.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/50945/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/gmt_time.sh
+END
+create_admin_gui_pass.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/50956/mor/install_script/trunk/x5/maintenance/test_fix_scripts/gui/create_admin_gui_pass.sh
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/55758/mor/install_script/trunk/x5
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/55462/mor/install_script/trunk/x5/install.sh
+END
+info.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/55466/mor/install_script/trunk/x5/info.sh
+END
+stable_revision
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/50404/mor/install_script/trunk/x5/stable_revision
+END
+system.conf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/53416/mor/install_script/trunk/x5/system.conf
+END
+update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/55466/mor/install_script/trunk/x5/update.sh
+END

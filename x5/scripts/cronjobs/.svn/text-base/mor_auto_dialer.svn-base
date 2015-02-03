@@ -1,0 +1,1 @@
+*/5 * * * * root /usr/local/mor/mor_ad_cron >> /var/log/mor/mor_ad_cron.log

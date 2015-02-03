@@ -1,0 +1,8 @@
+0 0 * * * root wget -o /dev/null -O /dev/null http://127.0.0.1/billing/callc/daily_actions
+
+# delete generated csv files and their archives
+0 0 * * * root rm -fr /tmp/*.tar.gz
+0 0 * * * root rm -fr /tmp/*.csv
+
+# move call log files to tar
+#0 0 * * * root /usr/local/mor/backup_calllog.sh

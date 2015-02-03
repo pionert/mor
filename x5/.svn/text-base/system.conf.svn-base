@@ -1,0 +1,23 @@
+# mor configuration file
+
+DB_PRESENT=1
+GUI_PRESENT=1
+ASTERISK_PRESENT=1
+
+# mysql settings
+BINLOG=0
+REPLICATION_M=0
+REPLICATION_S=0
+
+# database connection settings
+dbhost = localhost
+dbname = mor
+dbuser = mor
+dbsecret = mor
+dbport = 3306
+
+# mor core settings # todo - move here from /etc/asterisk/mor.conf, or maybe not?
+server_id = 1
+cdr_batch_size = 30
+cdr_flush_time = 5
+balance_check_period = 1

@@ -1,0 +1,7 @@
+Channel:Local/88888888@stresstest
+MaxRetries:1
+RetryTime:60 
+WaitTime:30 
+Context:stresstest_audio
+Extension:888
+Priority:1

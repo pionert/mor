@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/55701/mor/install_script/trunk/x6/framework
+END
+framework.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55701/mor/install_script/trunk/x6/framework/framework.conf
+END
+which_version_is_bigger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/55701/mor/install_script/trunk/x6/framework/which_version_is_bigger.rb
+END
+mor_install_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/55701/mor/install_script/trunk/x6/framework/mor_install_functions.sh
+END
+settings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/55701/mor/install_script/trunk/x6/framework/settings.sh
+END
+mysql_specific_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/55701/mor/install_script/trunk/x6/framework/mysql_specific_functions.sh
+END
+bash_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/55701/mor/install_script/trunk/x6/framework/bash_functions.sh
+END
+change_first_found_param_in_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/55701/mor/install_script/trunk/x6/framework/change_first_found_param_in_file.rb
+END

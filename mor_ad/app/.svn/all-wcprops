@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/44826/mor/install_script/trunk/mor_ad/app
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/21/mor/install_script/trunk/mor_ad/app/install.sh
+END
+mor_ad_cron.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/44826/mor/install_script/trunk/mor_ad/app/mor_ad_cron.c
+END

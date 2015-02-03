@@ -1,0 +1,1 @@
+*/15 * * * * root /usr/src/mor/x5/scripts/keep_aggregates_alive.sh

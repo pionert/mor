@@ -1,0 +1,13 @@
+host = localhost
+db = mor
+user = mor
+secret = mor
+port = 3306
+server_id = 1
+
+calls_one_time = 4
+cron_interval = 1
+
+show_sql = 0
+debug = 1
+execute_call_files = 1

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+DIR=/var/spool/asterisk/monitor
+INDATE=`date +"%H:%M %d-%m-%Y"`
+
+#date >> /tmp/test.txt
+
+#lame --preset voice -v -B 24 -a $DIR/$1.wav $DIR/$1.mp3
+
+/usr/local/bin/lame --resample 44.1 -b 32 -a $DIR/$1.wav $DIR/$1.mp3
+
+rm $DIR/$1.wav
+
+    

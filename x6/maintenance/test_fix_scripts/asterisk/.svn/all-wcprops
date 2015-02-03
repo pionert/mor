@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk
+END
+sip_registrations.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/sip_registrations.sh
+END
+voicemail.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/voicemail.sh
+END
+0_folder_separator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/0_folder_separator.sh
+END
+etc_asterisk_cli_aliases_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_cli_aliases_conf.sh
+END
+server_id.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/server_id.sh
+END
+etc_asterisk_extensions_mor_ad_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_extensions_mor_ad_conf.sh
+END
+etc_asterisk_iax_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_iax_conf.sh
+END
+asterisk_version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/asterisk_version.sh
+END
+mor_retrieve_peers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/mor_retrieve_peers.sh
+END
+etc_asterisk_sip_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_sip_conf.sh
+END
+performance.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/performance.sh
+END
+modules_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/modules_check.sh
+END
+play_hgc_audio.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/play_hgc_audio.sh
+END
+contexts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/contexts.sh
+END
+ivr_voices.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/ivr_voices.sh
+END
+didww.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/didww.sh
+END
+fix_asterisk_ulimit.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/fix_asterisk_ulimit.sh
+END
+asterisk_is_running.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/asterisk_is_running.sh
+END
+etc_asterisk_extensions_mor_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_extensions_mor_conf.sh
+END
+nat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/nat.sh
+END
+etc_asterisk_extensions_mor_conf_h323_include.sh
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_extensions_mor_conf_h323_include.sh
+END
+logrotates.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/logrotates.sh
+END
+etc_asterisk_h323_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_h323_conf.sh
+END
+heartbeat_asterisk_binaddr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/heartbeat_asterisk_binaddr.sh
+END
+autodialer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/autodialer.sh
+END
+realtime_mysql_status.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/realtime_mysql_status.sh
+END
+etc_asterisk_extconfig_conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_extconfig_conf.sh
+END
+mnp_cfgs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/mnp_cfgs.sh
+END
+registration_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/registration_script.sh
+END
+check_faxes_permissions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/check_faxes_permissions.sh
+END
+mor_minute_actions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/mor_minute_actions.sh
+END
+codecs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/codecs.sh
+END
+external_did.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/external_did.sh
+END
+etc_asterisk_extensions_mor_conf_2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/etc_asterisk_extensions_mor_conf_2.sh
+END
+maxload_core_count.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/maxload_core_count.sh
+END
+lame_converter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/55701/mor/install_script/trunk/x6/maintenance/test_fix_scripts/asterisk/lame_converter.sh
+END

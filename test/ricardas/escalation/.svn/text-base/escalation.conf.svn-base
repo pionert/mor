@@ -1,0 +1,54 @@
+*******    CONFIG FILE EXPLANATION    *******
+
+
+# stmp - SMTP configuration
+
+server   - address of SMTP server
+username - SMTP username (if username is blank put - symbol instead)
+password - SMTP password (if password is blank put - symbol instead)
+
+# rules - rules of how tickets are reported
+
+column 1 - support plan (0 - Platinum; 1 - With Support; 2 - Without support)
+column 2 - ticket priority (0 - blocker; 1 - high; 2 - medium; 3 - low)
+column 3 - time (in hours) required to pass for ticket to be reported
+all other columns - list of emails to which notifications will be sent (list must end with a word "end")
+
+example rule:
+
+0 1 2 support@kolmisoft.com engineer@kolmisoft.com end
+
+If Platinum ticket with a high priority is not solved for more than 6 hours, it will be reported to support@kolmisoft.com and engineer@kolmisoft.com
+
+
+Configuration parsing starts after this line
+--------------------------------------------
+
+
+# smtp
+
+server smtp.gmail.com:587
+username testing@gmail.com
+password my_password
+
+# rules
+
+0 0 1 mindaugas.mardosas@kolmisoft.com info@kolmisoft.com end
+0 1 1 mindaugas.mardosas@kolmisoft.com end
+0 1 48 info@kolmisoft.com end
+0 2 48 mindaugas.mardosas@kolmisoft.com end
+0 2 8 info@kolmisoft.com end
+0 3 8 mindaugas.mardosas@kolmisoft.com end
+0 3 48 info@kolmisoft.com end
+1 0 48 mindaugas.mardosas@kolmisoft.com end
+1 0 8 info@kolmisoft.com end
+1 1 8 mindaugas.mardosas@kolmisoft.com end
+1 1 48 info@kolmisoft.com end
+1 2 48 mindaugas.mardosas@kolmisoft.com end
+1 2 96 info@kolmisoft.com end
+1 3 96 mindaugas.mardosas@kolmisoft.com end
+2 0 8 mindaugas.mardosas@kolmisoft.com end
+2 0 48 info@kolmisoft.com end
+2 1 48 mindaugas.mardosas@kolmisoft.com end
+2 1 96 info@kolmisoft.com end
+2 2 96 mindaugas.mardosas@kolmisoft.com end

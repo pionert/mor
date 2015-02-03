@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/54990/mor/install_script/trunk/test/node2
+END
+fix_eth_interface.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24786/mor/install_script/trunk/test/node2/fix_eth_interface.sh
+END
+12.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/37636/mor/install_script/trunk/test/node2/12.sql
+END
+hosts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26887/mor/install_script/trunk/test/node2/hosts
+END
+node_controller.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/26625/mor/install_script/trunk/test/node2/node_controller.sh
+END
+nnode_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/54990/mor/install_script/trunk/test/node2/nnode_functions.sh
+END
+node_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/50552/mor/install_script/trunk/test/node2/node_functions.sh
+END
+README_nn
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/50553/mor/install_script/trunk/test/node2/README_nn
+END
+httpd_wakeup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/27161/mor/install_script/trunk/test/node2/httpd_wakeup.sh
+END
+system.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/47199/mor/install_script/trunk/test/node2/system.conf
+END
+dev_node_prepare.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/38361/mor/install_script/trunk/test/node2/dev_node_prepare.sh
+END
+nnode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/52676/mor/install_script/trunk/test/node2/nnode.sh
+END
+sudo_for_sphinx_script
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/50266/mor/install_script/trunk/test/node2/sudo_for_sphinx_script
+END
+node.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/47200/mor/install_script/trunk/test/node2/node.sh
+END

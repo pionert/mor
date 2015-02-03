@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/52368/mor/install_script/trunk/test/cluster1/m2/ruby212
+END
+mor_test_run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/52368/mor/install_script/trunk/test/cluster1/m2/ruby212/mor_test_run.sh
+END
+make_symlink.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/50479/mor/install_script/trunk/test/cluster1/m2/ruby212/make_symlink.sh
+END

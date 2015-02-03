@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/55690/mor/install_script/trunk/x5/asterisk/conf
+END
+sip.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/50956/mor/install_script/trunk/x5/asterisk/conf/sip.conf
+END
+extensions_mor_ivr.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/50923/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_ivr.conf
+END
+extensions_mor_tests.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/50923/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_tests.conf
+END
+extensions_mor_external_did.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/50923/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_external_did.conf
+END
+extensions.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/52853/mor/install_script/trunk/x5/asterisk/conf/extensions.conf
+END
+extensions_mor_callingcard.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/54427/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_callingcard.conf
+END
+sip_didx.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/53935/mor/install_script/trunk/x5/asterisk/conf/sip_didx.conf
+END
+res_config_mysql.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/49929/mor/install_script/trunk/x5/asterisk/conf/res_config_mysql.conf
+END
+extensions_mor_custom.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/50923/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_custom.conf
+END
+modules.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/55188/mor/install_script/trunk/x5/asterisk/conf/modules.conf
+END
+cdr.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/49929/mor/install_script/trunk/x5/asterisk/conf/cdr.conf
+END
+cli_aliases.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/55510/mor/install_script/trunk/x5/asterisk/conf/cli_aliases.conf
+END
+manager.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/49929/mor/install_script/trunk/x5/asterisk/conf/manager.conf
+END
+extensions_mor_anipin.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/52853/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_anipin.conf
+END
+extensions_mor_didww.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/50923/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_didww.conf
+END
+extensions_mor_h323.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/54413/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_h323.conf
+END
+extensions_mor.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/55690/mor/install_script/trunk/x5/asterisk/conf/extensions_mor.conf
+END
+extensions_mor_pbxfunctions.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/52853/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_pbxfunctions.conf
+END
+extensions_mor_stresstest.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/50923/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_stresstest.conf
+END
+h323.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/54413/mor/install_script/trunk/x5/asterisk/conf/h323.conf
+END
+extensions_mor_ad.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/50923/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_ad.conf
+END
+iax.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/50950/mor/install_script/trunk/x5/asterisk/conf/iax.conf
+END
+extensions_mor_didx.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/53934/mor/install_script/trunk/x5/asterisk/conf/extensions_mor_didx.conf
+END
+asterisk.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/52853/mor/install_script/trunk/x5/asterisk/conf/asterisk.conf
+END
+extconfig.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/49929/mor/install_script/trunk/x5/asterisk/conf/extconfig.conf
+END
+res_fax.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/49929/mor/install_script/trunk/x5/asterisk/conf/res_fax.conf
+END
+udptl.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/50923/mor/install_script/trunk/x5/asterisk/conf/udptl.conf
+END
+sip_didww.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/49929/mor/install_script/trunk/x5/asterisk/conf/sip_didww.conf
+END

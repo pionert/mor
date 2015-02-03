@@ -1,0 +1,61 @@
+;=======================================================================================
+;
+;	!!! DO NOT CHANGE THESE VALUES IF YOU'RE NOT SURE WHAT YOU ARE DOING !!!
+;
+;=======================================================================================
+
+[global]
+hostname=localhost
+dbname=mor
+user=mor
+password=mor
+port=3306
+;sock=/tmp/mysql.sock
+
+
+;minimum credit left to allow simultaneus calls in full currency - not cents
+; this value is not used from MOR 0.7
+min_frozen=10
+
+;how much credit to freeze in minutes (credit_frozen += frozen_time * rate)
+;in other words this value describes what is max lenght of the call for PREPAID users
+;NOTE: if you set this value < 1 MOR will set it to default 60
+frozen_time=90
+
+;message outputs (1-enable, 0-disable)
+show_notice=1
+show_warning=1
+show_error=1 
+
+;zap technology change
+;zap_change = zap
+
+; unique number for server identification
+server_id=1
+
+; should we add/update/delete active calls to/from DB?
+; This option is necessary for call-limit support
+active_calls=1
+
+; Dial command settings for dialing out (using providers)
+dial_out_settings = 
+
+; Should MOR be able to use LCR by destinations?
+use_lcr_partials = 1
+
+; Global timeout for calls in seconds
+global_call_timeout = 7200
+
+;Should MOR check for banned CLIs? Default 1, Enables/Disables ANI/CLI ban system 
+check_banned_clis = 1
+
+; Should we play audio with error message when call fails? (default 0 if not set)
+play_hgc_audio = 0
+
+; Should MOR use Flat-Rates?
+use_flat_rates = 1
+
+; Should Speed Dials be enabled 
+use_speed_dials = 1
+
+serial = 

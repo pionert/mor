@@ -1,0 +1,40 @@
+
+[mor_stresstest_init]
+
+exten => _X.,1,NoOp(MOR Stress-Test init)
+exten => _X.,2,NoOp(Acc: ${CDR(ACCOUNTCODE)})
+exten => _X.,3,NoOp(${CDR(CHANNEL)})
+exten => _X.,4,mor
+exten => _X.,5,Hangup
+
+
+
+[mor_stresstest_exec]
+
+exten => _X.,1,NoOp(MOR Stress-Test exec)
+exten => _X.,2,NoOp(Acc: ${CDR(ACCOUNTCODE)})
+exten => _X.,3,NoOp(Campaign ID: ${MOR_AD_CAMPAIGN_ID})
+exten => _X.,4,Goto(10)
+
+exten => _X.,10,Wait(1)
+exten => _X.,11,AGI(mor_ad_agi)
+exten => _X.,12,Goto(20)
+
+exten => _X.,20,NoOp	;Wait(2)
+exten => _X.,21,NoOp	;Playback(tt-weasels)
+exten => _X.,22,Hangup
+
+
+
+[mor_stress_test_lega]
+
+exten => _X.,1,Answer
+exten => _X.,2,Playback(mor/mor_callingcard_choices)
+exten => _X.,3,Goto(2)
+
+
+[mor_stress_test_legb]
+
+exten => _X.,1,Answer
+exten => _X.,2,Playback(mor/mor_callingcard_choices)
+exten => _X.,3,Goto(2)

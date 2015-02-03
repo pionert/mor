@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/43532/mor/install_script/trunk/upgrade/x4/cronjobs
+END
+mor_daily_actions
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/32485/mor/install_script/trunk/upgrade/x4/cronjobs/mor_daily_actions
+END
+mor_background_tasks
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/38082/mor/install_script/trunk/upgrade/x4/cronjobs/mor_background_tasks
+END
+ad_cron
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/43532/mor/install_script/trunk/upgrade/x4/cronjobs/ad_cron
+END
+provider_check
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/38086/mor/install_script/trunk/upgrade/x4/cronjobs/provider_check
+END
+mor_minute_actions
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/40084/mor/install_script/trunk/upgrade/x4/cronjobs/mor_minute_actions
+END

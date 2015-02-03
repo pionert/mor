@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/52459/mor/install_script/trunk/x5/maintenance/test_fix_scripts/scripts
+END
+0_folder_separator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/52457/mor/install_script/trunk/x5/maintenance/test_fix_scripts/scripts/0_folder_separator.sh
+END
+background_tasks.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/52459/mor/install_script/trunk/x5/maintenance/test_fix_scripts/scripts/background_tasks.sh
+END
+server_loadstats.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/52459/mor/install_script/trunk/x5/maintenance/test_fix_scripts/scripts/server_loadstats.sh
+END

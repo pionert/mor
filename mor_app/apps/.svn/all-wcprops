@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/55542/mor/install_script/trunk/mor_app/apps
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/21/mor/install_script/trunk/mor_app/apps/Makefile
+END
+mor_core_recompile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/55542/mor/install_script/trunk/mor_app/apps/mor_core_recompile.sh
+END

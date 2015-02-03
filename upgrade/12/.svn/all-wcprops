@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/54499/mor/install_script/trunk/upgrade/12
+END
+ruby_1_9_3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/43055/mor/install_script/trunk/upgrade/12/ruby_1_9_3.sh
+END
+rs_to_rspro.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/37874/mor/install_script/trunk/upgrade/12/rs_to_rspro.sh
+END
+stable_revision
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/50871/mor/install_script/trunk/upgrade/12/stable_revision
+END
+ccl_delete_old_dependencies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/41626/mor/install_script/trunk/upgrade/12/ccl_delete_old_dependencies.rb
+END
+gui_upgrade_light.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/43627/mor/install_script/trunk/upgrade/12/gui_upgrade_light.sh
+END
+nodejs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/32762/mor/install_script/trunk/upgrade/12/nodejs.sh
+END
+mor_ruby
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/43039/mor/install_script/trunk/upgrade/12/mor_ruby
+END
+fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/50955/mor/install_script/trunk/upgrade/12/fix.sh
+END
+mnp_reenable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22226/mor/install_script/trunk/upgrade/12/mnp_reenable.sh
+END
+passenger.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/44348/mor/install_script/trunk/upgrade/12/passenger.sh
+END
+bundler.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/43625/mor/install_script/trunk/upgrade/12/bundler.sh
+END
+gui_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/43626/mor/install_script/trunk/upgrade/12/gui_upgrade.sh
+END
+old_mor_to_utf8.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/33666/mor/install_script/trunk/upgrade/12/old_mor_to_utf8.rb
+END
+mor_12_db_utf_fix_when_updating_from_extend.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/33669/mor/install_script/trunk/upgrade/12/mor_12_db_utf_fix_when_updating_from_extend.sh
+END
+assets_recompile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/36094/mor/install_script/trunk/upgrade/12/assets_recompile.sh
+END
+rvm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/54499/mor/install_script/trunk/upgrade/12/rvm.sh
+END
+rspro_lcr_unassign.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/37874/mor/install_script/trunk/upgrade/12/rspro_lcr_unassign.rb
+END

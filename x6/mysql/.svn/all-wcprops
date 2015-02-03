@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/55701/mor/install_script/trunk/x6/mysql
+END
+mysql_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/55701/mor/install_script/trunk/x6/mysql/mysql_install.sh
+END
+phpmyadmin_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/55701/mor/install_script/trunk/x6/mysql/phpmyadmin_install.sh
+END
+configure_mycnf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55701/mor/install_script/trunk/x6/mysql/configure_mycnf.sh
+END
+mysql_5_5.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/55701/mor/install_script/trunk/x6/mysql/mysql_5_5.sh
+END
+db_one_file_per_table.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/55701/mor/install_script/trunk/x6/mysql/db_one_file_per_table.sh
+END

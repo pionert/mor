@@ -1,0 +1,1 @@
+10 0 1 * * root wget -o /dev/null -O /dev/null http://127.0.0.1/billing/callc/monthly_actions

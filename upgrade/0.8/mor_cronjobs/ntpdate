@@ -1,0 +1,1 @@
+0 * * * * root /usr/sbin/ntpdate pool.ntp.org >> /var/log/ntpdate.log

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/21/mor/install_script/trunk/upgrade/db
+END
+upgrade_db_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21/mor/install_script/trunk/upgrade/db/upgrade_db_data.sql
+END
+upgrade_db_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21/mor/install_script/trunk/upgrade/db/upgrade_db_tables.sql
+END
+upgrade_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/21/mor/install_script/trunk/upgrade/db/upgrade_db.sh
+END

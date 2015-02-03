@@ -1,0 +1,60 @@
+; ${MOR_PBXFUNC_SOUND} returns ivr sound file to play, currently used only in Dial Local
+
+[mor_pbxfunctions]
+
+exten => tell_balance,1,NoOp(MOR PBX Function - Tell Balance)
+exten => tell_balance,n,GotoIf($[${LEN(${MOR_LANGUAGE})} > 0]?set_lang:exec_agi)
+exten => tell_balance,n(set_lang),Set(CHANNEL(language)=${MOR_LANGUAGE})
+exten => tell_balance,n(exec_agi),AGI(mor_tellbalance)
+exten => tell_balance,n,Hangup
+
+exten => use_voucher,1,NoOp(MOR PBX Function - Use Voucher)
+exten => use_voucher,n,GotoIf($[${LEN(${MOR_LANGUAGE})} > 0]?set_lang:exec_agi)
+exten => use_voucher,n(set_lang),Set(CHANNEL(language)=${MOR_LANGUAGE})
+exten => use_voucher,n(exec_agi),AGI(mor_usevoucher)
+exten => use_voucher,n,Hangup
+
+exten => milliwatt,1,NoOp(MOR PBX Function - Milliwatt)
+exten => milliwatt,2,Answer
+exten => milliwatt,3,Milliwatt
+exten => milliwatt,4,Hangup
+
+exten => dial_local,1,NoOp(MOR PBX Function - Dial Local)
+exten => dial_local,2,Read(LOCALEXT,${MOR_PBXFUNC_SOUND})
+exten => dial_local,3,GotoIf($[${LEN(${MOR_LANGUAGE})} > 0]?set_lang:goto_local)
+exten => dial_local,4(set_lang),Set(CHANNEL(language)=${MOR_LANGUAGE})
+exten => dial_local,5(goto_local),Goto(mor_local,${LOCALEXT},1)
+exten => dial_local,6,Hangup
+
+; DTMF test
+exten => dtmf_test,1,NoOp(MOR PBX Function - DTMF Test)
+exten => dtmf_test,2,GotoIf($[${LEN(${MOR_LANGUAGE})} > 0]?set_lang:answer_call)
+exten => dtmf_test,3(set_lang),Set(CHANNEL(language)=${MOR_LANGUAGE})
+exten => dtmf_test,4(answer_call),Answer
+exten => dtmf_test,5,Read(DTMF,mor/mor_enter_dest,,3,10)
+exten => dtmf_test,6,SayDigits(${DTMF})
+exten => dtmf_test,7,Goto(5)
+
+exten => check_voicemail,1,NoOp(MOR PBX Function - Check VoiceMail)
+exten => check_voicemail,n,GotoIf($[${LEN(${MOR_LANGUAGE})} > 0]?set_lang:exec_vm)
+exten => check_voicemail,n(set_lang),Set(CHANNEL(language)=${MOR_LANGUAGE})
+exten => check_voicemail,n(exec_vm),VoicemailMain()
+;exten => check_voicemail,3,Hangup
+
+exten => card_topup,1,NoOp(MOR PBX Function - Card TopUp)
+exten => card_topup,n,Set(MOR_TOPUP_NO_TELL_BALANCE=1)
+exten => card_topup,n,Set(MOR_TOPUP_CC_BY_PIN=1)
+exten => card_topup,n,GotoIf($[${LEN(${MOR_LANGUAGE})} > 0]?set_lang:exec_agi)
+exten => card_topup,n(set_lang),Set(CHANNEL(language)=${MOR_LANGUAGE})
+exten => card_topup,n(exec_agi),AGI(mor_card_topup)
+
+exten => current_time,1,NoOp(MOR PBX Function - Current time)
+exten => current_time,n,Answer
+exten => current_time,n,GotoIf($[${LEN(${MOR_LANGUAGE})} > 0]?set_lang:exec_func)
+exten => current_time,n(set_lang),Set(CHANNEL(language)=${MOR_LANGUAGE})
+exten => current_time,n(exec_func),SayUnixTime
+
+exten => external_did,1,NoOp(MOR PBX Function - External DID - ${MOR_DID})
+exten => external_did,2,Goto(mor_external_did,${MOR_DID},1)
+
+#include extensions_mor_external_did.conf

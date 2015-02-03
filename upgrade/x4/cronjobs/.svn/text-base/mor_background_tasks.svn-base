@@ -1,0 +1,1 @@
+*/1 * * * * root /usr/local/mor/m2_background_tasks >> /var/log/mor/background_tasks.log

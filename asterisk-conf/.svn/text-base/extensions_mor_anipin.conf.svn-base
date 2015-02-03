@@ -1,0 +1,93 @@
+[mor_anipin]
+
+exten => s,1,NoOp(MOR_ANIPIN_USED: ${MOR_ANIPIN_USED}, MOR_DEVICE_ID: ${MOR_DEVICE_ID}, MOR_ANI_DST: ${MOR_ANI_DST}, MOR_ANI_DID: ${MOR_ANI_DID}, MOR_QFDID: ${MOR_QFDID}, MOR_ANIPIN_END_IVR: ${MOR_ANIPIN_END_IVR})
+exten => s,2,GotoIf($[${LEN(${MOR_CB_BUSY_IVR})} > 0]?3:6)
+exten => s,3,Set(MOR_TMP_VAR=${MOR_CB_BUSY_IVR})
+exten => s,4,Set(MOR_CB_BUSY_IVR=)
+exten => s,5,Goto(ivr_block${MOR_TMP_VAR},s,1)
+exten => s,6,GotoIf($[${LEN(${MOR_CB_FAILED_IVR})} > 0]?7:10)
+exten => s,7,Set(MOR_TMP_VAR=${MOR_CB_FAILED_IVR})
+exten => s,8,Set(MOR_CB_FAILED_IVR=)
+exten => s,9,Goto(ivr_block${MOR_TMP_VAR},s,1)
+exten => s,10,GotoIf($[${LEN(${MOR_ANIPIN_END_IVR})} = 0]?anipin_end_ivr1,s,1:anipin_end_ivr${MOR_ANIPIN_END_IVR},s,1)
+
+
+[anipin_end_ivr1]
+
+exten => s,1,NoOp(ANI/PIN End IVR #1)
+exten => s,2,Set(TIMEOUT(digit)=5)
+exten => s,3,Set(TIMEOUT(response)=10)
+exten => s,4,Set(LOOPCOUNT=0)
+exten => s,5,Background(mor/ivr_voices/${CHANNEL(LANGUAGE)}/mor_callingcard_choices)
+exten => s,6,Waitexten(5)
+exten => s,7,Set(LOOPCOUNT=$[${LOOPCOUNT} + 1])
+exten => s,8,GotoIf($[${LOOPCOUNT} > 2]?end,1)
+exten => s,9,Goto(5)
+
+exten => i,1,Goto(s|1)
+exten => t,1,Goto(s|1)
+
+exten => 1,1,NoOp(Ask new dst)
+exten => 1,2,Set(MOR_ANI_DST=)
+exten => 1,3,GotoIf($[${LEN(${MOR_QFDID})} = 1]?5)
+exten => 1,4,Goto(mor|${MOR_ANI_DID}|1)
+exten => 1,5,Read(ext|mor/ivr_voices/${CHANNEL(LANGUAGE)}/cc_please_enter_number|||3)
+exten => 1,n,GotoIf($[${LEN(${ext})} > 1]?mor,${ext},1:end,1)
+
+exten => 2,1,NoOp(Dial same dst)
+exten => 2,2,Background(mor/mor_dialing_previous_destination)
+exten => 2,3,SayDigits(${MOR_ANI_DST})
+exten => 2,4,Goto(mor|${MOR_ANI_DST}|1)
+
+exten => 3,1,NoOp(Check balance)
+exten => 3,2,AGI(mor_tellbalance)
+exten => 3,3,Goto(s|1)
+
+exten => end,1,Hangup
+
+
+[anipin_end_ivr2]
+
+exten => s,1,NoOp(ANI/PIN End IVR #2)
+
+exten => s,2,Set(TIMEOUT(digit)=5)
+exten => s,3,Set(TIMEOUT(response)=10)
+exten => s,4,Set(LOOPCOUNT=0)
+exten => s,5,Background(mor/ivr_voices/${CHANNEL(LANGUAGE)}/mor_callingcard_choices)
+exten => s,6,Waitexten(5)
+exten => s,7,Set(LOOPCOUNT=$[${LOOPCOUNT} + 1])
+exten => s,8,GotoIf($[${LOOPCOUNT} > 2]?end,1)
+exten => s,9,Goto(5)
+
+exten => i,1,Goto(s|1)
+exten => t,1,Goto(s|1)
+
+exten => 1,1,NoOp(Ask new dst)
+exten => 1,2,Set(MOR_ANI_DST=)
+exten => 1,3,GotoIf($[${LEN(${MOR_QFDID})} = 1]?5)
+exten => 1,4,Goto(mor|${MOR_ANI_DID}|1)
+exten => 1,5,Read(ext|mor/ivr_voices/${CHANNEL(LANGUAGE)}/cc_please_enter_number|||3)
+exten => 1,n,GotoIf($[${LEN(${ext})} > 1]?mor,${ext},1:end,1)
+
+exten => 2,1,NoOp(Dial same dst)
+exten => 2,2,Background(mor/mor_dialing_previous_destination)
+exten => 2,3,SayDigits(${MOR_ANI_DST})
+exten => 2,4,Goto(mor|${MOR_ANI_DST}|1)
+
+exten => 3,1,NoOp(Check balance)
+exten => 3,2,AGI(mor_tellbalance)
+exten => 3,3,Goto(s|1)
+
+exten => 4,1,NoOp(Use Voucher)
+exten => 4,n,AGI(mor_usevoucher)
+exten => 4,n,Goto(s|1)
+
+exten => end,1,Hangup
+
+
+
+
+[anipin_end_ivr3]
+
+exten => s,1,NoOp(ANI/PIN End IVR #3)
+exten => s,n,Goto(anipin_end_ivr1,s,1)

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/42729/mor/install_script/trunk/db/9
+END
+beta_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/42729/mor/install_script/trunk/db/9/beta_data.sql
+END
+beta_structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26528/mor/install_script/trunk/db/9/beta_structure.sql
+END
+permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22489/mor/install_script/trunk/db/9/permissions.sql
+END
+import_changes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22512/mor/install_script/trunk/db/9/import_changes.sh
+END

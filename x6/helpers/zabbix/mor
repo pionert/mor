@@ -1,0 +1,24 @@
+
+#=========== MOR CONFIGURATION =========================
+# Author: Mindaugas Mardosas
+# Year:	  2011-2013
+# About:  These commands are required to properly monitor a MOR system
+
+EnableRemoteCommands=1
+Server=176.31.122.225,94.23.196.71,192.168.0.12
+
+UserParameter=mysql.ping,sudo service mysqld status | grep running | wc -l
+UserParameter=asterisk.realtime,sudo /usr/sbin/asterisk -nrx "realtime mysql status" | grep Connected | wc -l
+UserParameter=asterisk.ping,sudo /usr/sbin/asterisk -nrx 'core show uptime' | grep uptime | wc -l
+UserParameter=gui.accessibility,sudo /usr/src/mor/x6/maintenance/test_fix_scripts/gui/gui_access_from_localhost.sh &> /dev/null; if [ "$?" == "0" ]; then echo 1; else echo 0; fi
+UserParameter=mor.fail2ban,sudo /usr/src/mor/x6/maintenance/test_fix_scripts/various/fail2ban_running.sh &> /dev/null; if [ "$?" == "0" ]; then echo 1; else echo 0; fi
+UserParameter=mor.ntpd,sudo /sbin/service ntpd status | grep '\.\.\.' | wc -l
+UserParameter=mor.s3_day,sudo /usr/src/mor/x6/helpers/zabbix/s3_check.sh /root/.s3cfg day  2>/dev/null  | tail -n 1
+UserParameter=mor.s3_month,sudo /usr/src/mor/x6/helpers/zabbix/s3_check.sh /root/.s3cfg month  2>/dev/null | tail -n 1
+UserParameter=mor.s3_week,sudo /usr/src/mor/x6/helpers/zabbix/s3_check.sh /root/.s3cfg week  2>/dev/null | tail -n 1
+UserParameter=mor.opensips,sudo service opensips status | grep running | wc -l 
+UserParameter=mor.mysqlha,sudo service mysqld status | grep running | wc -l
+
+
+
+

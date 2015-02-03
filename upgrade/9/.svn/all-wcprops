@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/38134/mor/install_script/trunk/upgrade/9
+END
+fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30012/mor/install_script/trunk/upgrade/9/fix.sh
+END
+mnp_reenable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15004/mor/install_script/trunk/upgrade/9/mnp_reenable.sh
+END
+gui_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30012/mor/install_script/trunk/upgrade/9/gui_upgrade.sh
+END
+core_upgrade.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/15004/mor/install_script/trunk/upgrade/9/core_upgrade.sh
+END
+stable_revision
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/38134/mor/install_script/trunk/upgrade/9/stable_revision
+END
+gui_upgrade_light.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30012/mor/install_script/trunk/upgrade/9/gui_upgrade_light.sh
+END

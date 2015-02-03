@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/33326/mor/install_script/trunk/test/ricardas/monitoring
+END
+get_monitoring_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/33326/mor/install_script/trunk/test/ricardas/monitoring/get_monitoring_data.php
+END
+mor_system_monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/33326/mor/install_script/trunk/test/ricardas/monitoring/mor_system_monitor.c
+END
+monitor.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/32583/mor/install_script/trunk/test/ricardas/monitoring/monitor.conf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/32573/mor/install_script/trunk/test/ricardas/monitoring/Makefile
+END

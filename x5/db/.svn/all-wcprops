@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/55470/mor/install_script/trunk/x5/db
+END
+db_update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/54735/mor/install_script/trunk/x5/db/db_update.sh
+END
+db_create.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/50043/mor/install_script/trunk/x5/db/db_create.sh
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/55470/mor/install_script/trunk/x5/db/init.sql
+END
+beta_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/50043/mor/install_script/trunk/x5/db/beta_data.sql
+END
+beta_structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/50043/mor/install_script/trunk/x5/db/beta_structure.sql
+END
+mor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/55464/mor/install_script/trunk/x5/db/mor.sql
+END
+mysql_grants.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/50407/mor/install_script/trunk/x5/db/mysql_grants.sh
+END
+generate_uniquehash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/55463/mor/install_script/trunk/x5/db/generate_uniquehash.sh
+END

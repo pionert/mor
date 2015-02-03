@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/55511/mor/install_script/trunk/test/scripts
+END
+DO_NOT_COMMIT_HERE_SCRIPTS_WHICH_ARE_NOT_A_PART_OF_TEST_FRAMEWORK.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/32978/mor/install_script/trunk/test/scripts/DO_NOT_COMMIT_HERE_SCRIPTS_WHICH_ARE_NOT_A_PART_OF_TEST_FRAMEWORK.txt
+END

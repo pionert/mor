@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/55701/mor/install_script/trunk/x6/helpers
+END
+phpsysinfo_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/55701/mor/install_script/trunk/x6/helpers/phpsysinfo_install.sh
+END
+iperf_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55701/mor/install_script/trunk/x6/helpers/iperf_install.sh
+END
+elunia_stats_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/55701/mor/install_script/trunk/x6/helpers/elunia_stats_install.sh
+END
+fail2ban_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/55701/mor/install_script/trunk/x6/helpers/fail2ban_install.sh
+END
+lame_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/55701/mor/install_script/trunk/x6/helpers/lame_install.sh
+END

@@ -1,0 +1,38 @@
+; ${MOR_PBXFUNC_SOUND} returns ivr sound file to play, currently used only in Dial Local
+
+[mor_pbxfunctions]
+
+exten => tell_balance,1,NoOp(MOR PBX Function - Tell Balance)
+exten => tell_balance,2,AGI(mor_tellbalance)
+exten => tell_balance,3,Hangup
+
+exten => use_voucher,1,NoOp(MOR PBX Function - Use Voucher)
+exten => use_voucher,2,AGI(mor_usevoucher)
+exten => use_voucher,3,Hangup
+
+exten => milliwatt,1,NoOp(MOR PBX Function - Milliwatt)
+exten => milliwatt,2,Milliwatt
+exten => milliwatt,3,Hangup
+
+exten => dial_local,1,NoOp(MOR PBX Function - Dial Local)
+exten => dial_local,2,Read(LOCALEXT|${MOR_PBXFUNC_SOUND})
+exten => dial_local,3,Goto(mor_local,${LOCALEXT},1)
+exten => dial_local,4,Hangup
+
+; DTMF test
+exten => dtmf_test,1,NoOp(MOR PBX Function - DTMF Test)
+exten => dtmf_test,2,Answer
+exten => dtmf_test,3,Read(DTMF|mor/mor_enter_dest||3|10)
+exten => dtmf_test,4,SayDigits(${DTMF})
+exten => dtmf_test,5,Goto(3)
+
+exten => check_voicemail,1,NoOp(MOR PBX Function - Check VoiceMail)
+exten => check_voicemail,n,Set(CHANNEL(language)=${MOR_LANGUAGE})
+exten => check_voicemail,n,VoicemailMain()
+;exten => check_voicemail,3,Hangup
+
+
+exten => external_did,1,NoOp(MOR PBX Function - External DID - ${MOR_DID})
+exten => external_did,2,Goto(mor_external_did,${MOR_DID},1)
+
+#include extensions_mor_external_did.conf

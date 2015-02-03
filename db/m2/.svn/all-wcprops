@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/50463/mor/install_script/trunk/db/m2
+END
+speedup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/44900/mor/install_script/trunk/db/m2/speedup.sql
+END
+import_changes_dev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/50463/mor/install_script/trunk/db/m2/import_changes_dev.sh
+END
+speedup_fresh_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/44900/mor/install_script/trunk/db/m2/speedup_fresh_db.sh
+END
+import_changes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/47714/mor/install_script/trunk/db/m2/import_changes.sh
+END

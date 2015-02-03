@@ -1,0 +1,7 @@
+[18:40:46] MK: cd /usr/src/mor
+svn update
+ln -s /usr/src/mor/test/node2/nnode.sh /bin/nn
+[18:40:52] MK: tada bandyk nn -l
+[18:41:07] MK: vietoj n sukūriau dublikatą su pakeitimais -> nn, kad nieko nesulaužyti kitiems
+[18:41:20] MK: pats nežinau kaip teisingai ištestuoti, galėsi paskui parašyti kas veikia, kas ne
+[18:41:37] MK: šitas nn turi mokėti dirbti su ruby 2.1.2 nelaužyti passenger ir pan

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/15224/mor/install_script/trunk/upgrade/trunk/cronjobs
+END
+mor_daily_actions
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/5175/mor/install_script/trunk/upgrade/trunk/cronjobs/mor_daily_actions
+END
+mor_minute_actions
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/15224/mor/install_script/trunk/upgrade/trunk/cronjobs/mor_minute_actions
+END

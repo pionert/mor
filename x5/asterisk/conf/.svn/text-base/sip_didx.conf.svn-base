@@ -1,0 +1,83 @@
+[67.15.180.14]
+host = 67.15.180.14
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[67.15.128.14]
+host = 67.15.128.14
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[67.15.128.18]
+host = 67.15.128.18
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[209.62.66.242]
+host = 209.62.66.242
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[198.101.50.4]
+host = 198.101.50.4
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[198.101.50.2]
+host = 198.101.50.2
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[74.55.75.30]
+host = 74.55.75.30
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[174.133.195.194]
+host = 174.133.195.194
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[67.19.199.170]
+host = 67.19.199.170
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[88.208.247.34]
+host = 88.208.247.34
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[88.208.208.34]
+host = 88.208.208.34
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no
+
+[74.52.4.234]
+host = 74.52.4.234
+type = friend
+insecure = invite,port
+context = from-didx
+canreinvite=no

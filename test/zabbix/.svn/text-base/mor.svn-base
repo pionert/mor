@@ -1,0 +1,35 @@
+
+#=========== MOR CONFIGURATION =========================
+# Author: Mindaugas Mardosas
+# Year:	  2011-2013
+# About:  These commands are required to properly monitor a MOR system
+
+EnableRemoteCommands=1
+Server=176.31.122.225,94.23.196.71,192.168.0.12
+
+UserParameter=mysql.ping,mysqladmin -uroot ping|grep alive|wc -l
+UserParameter=asterisk.realtime,sudo /usr/sbin/asterisk -nrx "realtime mysql status" | grep Connected | wc -l
+UserParameter=asterisk.ping,sudo /usr/sbin/asterisk -nrx 'core show uptime' | grep uptime | wc -l
+UserParameter=gui.accessibility,sudo /usr/src/mor/test/scripts/gui/gui_access_from_localhost.sh &> /dev/null; if [ "$?" == "0" ]; then echo 1; else echo 0; fi
+UserParameter=mor.fail2ban,sudo /usr/src/mor/test/scripts/various/fail2ban_running.sh &> /dev/null; if [ "$?" == "0" ]; then echo 1; else echo 0; fi
+UserParameter=mor.cc,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep CC_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.ad,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep AD_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.rs,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep RS_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.sms,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep SMS_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.ma,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep MA_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.cs,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep CS_Active| (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.rec,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep REC_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.pg,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep PG_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.skp,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep SKP_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.rspro,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep RSPRO_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.mnp,awk -F"#" '{print $1}' /home/mor/config/environment.rb | grep MNP_Active | (awk '{print $NF}'; read a; if [ "$a" == "1" ]; then echo 1; fi )
+UserParameter=mor.ntpd,sudo /sbin/service ntpd status | grep '\.\.\.' | wc -l
+UserParameter=mor.s3_day,sudo /usr/src/mor/test/zabbix/s3_check.sh /root/.s3cfg day  2>/dev/null  | tail -n 1
+UserParameter=mor.s3_month,sudo /usr/src/mor/test/zabbix/s3_check.sh /root/.s3cfg month  2>/dev/null | tail -n 1
+UserParameter=mor.s3_week,sudo /usr/src/mor/test/zabbix/s3_check.sh /root/.s3cfg week  2>/dev/null | tail -n 1
+UserParameter=mor.opensips,sudo service opensips status | grep running | wc -l 
+UserParameter=mor.mysqlha,sudo service mysqld status | grep running | wc -l
+
+
+
+

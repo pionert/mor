@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <title>MOR Softswitch with Billing and Routing</title>    
+    <meta name="author" content="www.kolmisoft.com">
+    <meta name="robots" content="all">
+    <meta name="keywords" content="advanced, VoIP, billing, routing, software">
+    <meta name="description" content="Kolmisoft company delivers advanced VoIP Billing software and VoIP Routing software.">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style type="text/css">
+      body {padding-left: 11em;font-family: Verdana, Arial, Helvetica, sans-serif;color: black;background-color: #ffffff;}
+      a {color: #151B8D;text-decoration: none;font-size: 20px;font-weight:bold;}
+      a:hover {color: #FFFFFF;background-color: #AA0000;text-decoration: none;font-weight:bold;}
+      a.kolmisoft_2:hover {background-color: #FFFFFF;}
+      a.kolmisoft_1 {color: black;font-weight:normal;}
+      a.kolmisoft_1:hover {color: #FFFFFF;background-color: #AA0000;text-decoration: none;font-weight:normal;}
+      a img {border: 0px solid;}
+      .kolmisoft_centered {position: absolute;top: 0;right: 0;bottom: 0;left: 0;width: 50%;height: 50%;margin: auto;color: white;} 
+      .kolmisoft_image{position: absolute;bottom: 0;left: 0;top : 0;width: 50%;height: 316px;margin: auto;text-align:center;}
+      .kolmisoft_text{position: absolute;right: 0;top : 0;bottom: 0;width: 50%;height: 50%;margin: auto;color: black;text-align:center;font-size: 20px;}
+      .kolmisoft_link{position: absolute;bottom: 0;right: 0;left: 0;width: 50%;height: 10%;margin: auto;text-align:center;}
+    </style>    
+  </head>
+  <body>
+    <div class="kolmisoft_centered">
+      <div class="kolmisoft_image"><a class="kolmisoft_2" href="http://www.kolmisoft.com/" target="_blank"><img title="Kolmisoft" src="/mor_box.png" alt="Kolmisoft"></a></div>
+      <div class="kolmisoft_text"> 
+        <p>Thank you for choosing MOR Softswitch with Billing and Routing!</p>
+        <p>To login to administration panel click <a href="/billing/">here.</a></p>
+        <p>To check manual - click <a href="http://wiki.kolmisoft.com/index.php/MOR_Manual" target="_blank">here.</a></p>
+      </div>
+    </div>
+    <div class="kolmisoft_link"><a class="kolmisoft_1" href="http://www.kolmisoft.com/" target="_blank">www.kolmisoft.com</a></div>
+  </body>
+</html>

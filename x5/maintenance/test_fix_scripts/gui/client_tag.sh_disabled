@@ -1,0 +1,85 @@
+#! /bin/sh
+
+#MK: problem with this script is that it does not change the tag, it removes the line completely
+
+# Author: Mindaugas Mardosas
+# Problem addressed: Script tests and fixes if standart [CLIENT] tag in /home/mor/config/environmnet.rb is found.
+# Solution: Ask user input and change the tag.
+
+. /usr/src/mor/x5/framework/bash_functions.sh
+. /usr/src/mor/x5/framework/settings.sh
+
+#----------------------------
+client_tag_test()
+{
+# Author: Mindaugas Mardosas
+# Problem addressed: function tests and informs if standart [CLIENT] tag in /home/mor/config/environmnet.rb is found
+# Function returns:
+    # 1 - default [CLIENT] tag is found.    (IT MUST BE CHANGED!)
+    # 0 - default [CLIENT] tag is NOT found.
+
+    grep 'CLIENT' /home/mor/config/environment.rb > /dev/null
+    if [ "$?" == "0" ]; then
+        return 1;
+    elif [ "$?" == "1" ]; then
+        return 0
+    else
+        return 1;
+    fi
+}
+#================= MAIN ====================
+read_mor_gui_settings
+if [ "$GUI_PRESENT" == "0" ]; then
+    exit 0;
+fi
+
+client_tag_test
+
+if [ "$?" == "0" ]; then
+    report "[CLIENT] tag in /home/mor/config/environment.rb is ok" 0
+    exit 0
+else
+    echo "The test found that [CLIENT] tag is default in /home/mor/config/environment.rb, answer the following questions and this will be fixed:"
+    echo "Please enter your company name: "
+    read -r company_name
+
+    tag="[$company_name]"
+
+    if [ -f /usr/src/mor/x5/framework/change_first_found_param_in_file.rb ]; then
+        
+        mor_gui_current_version
+        mor_version_mapper $MOR_VERSION_YOU_ARE_TESTING_FOR_TESTS
+        
+        if [ "$MOR_MAPPED_VERSION_WEIGHT" -ge "123" ]; then # ROR 3+
+            if [ `grep ExceptionNotifier_email_prefix /home/mor/config/environment.rb | wc -l` != "0" ]; then
+                ruby /usr/src/mor/x5/framework/change_first_found_param_in_file.rb "/home/mor/config/environment.rb" "ExceptionNotifier_email_prefix" "ExceptionNotifier_email_prefix = \"$tag\""
+            else
+                sed '/ExceptionNotifier_exception_recipients/a\ExceptionNotifier_email_prefix = \"$tag\"'   /home/mor/config/environment.rb > /tmp/env_tmp
+                mv /tmp/env_tmp /home/mor/config/environment.rb
+            fi
+            
+            #-- ensuring that there are no old style variable which causes to break gui
+            sed '/ExceptionNotifier.email_prefix/d' /home/mor/config/environment.rb > /tmp/env_tmp
+            mv /tmp/env_tmp /home/mor/config/environment.rb
+        else    #  extend
+            ruby /usr/src/mor/x5/framework/change_first_found_param_in_file.rb "/home/mor/config/environment.rb" "ExceptionNotifier.email_prefix" "ExceptionNotifier.email_prefix = \"$tag\""    
+        fi      
+
+        client_tag_test
+
+        if [ "$?" == "1" ]; then    #tag found - fix failed
+            report "[CLIENT] tag in /home/mor/config/environment.rb" 1
+            exit 1
+        fi
+
+        if [ "$?" == "0" ]; then  # tag was not found - FIXED
+            report "[CLIENT] tag was replaced with company name $tag in /home/mor/config/environment.rb" 4
+            /etc/init.d/httpd restart &> /dev/null
+            exit 0
+        fi
+
+    else
+        report "[CLIENT] tag in /home/mor/config/environment.rb FAILED. /usr/src/mor/x5/framework/change_first_found_param_in_file.rb script was not found" 1
+        exit 1
+    fi
+fi

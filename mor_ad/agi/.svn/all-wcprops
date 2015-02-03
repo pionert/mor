@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/26527/mor/install_script/trunk/mor_ad/agi
+END
+ad_callfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/21/mor/install_script/trunk/mor_ad/agi/ad_callfile
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/21/mor/install_script/trunk/mor_ad/agi/install.sh
+END
+mor_ad_agi.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26527/mor/install_script/trunk/mor_ad/agi/mor_ad_agi.c
+END
+cagi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/21/mor/install_script/trunk/mor_ad/agi/cagi.c
+END
+mor_ad_agi.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/21/mor/install_script/trunk/mor_ad/agi/mor_ad_agi.conf
+END
+cagi.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/21/mor/install_script/trunk/mor_ad/agi/cagi.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/21/mor/install_script/trunk/mor_ad/agi/Makefile
+END

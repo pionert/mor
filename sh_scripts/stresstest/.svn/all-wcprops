@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/stresstest
+END
+start_calls.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/stresstest/start_calls.sh
+END
+stop_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/stresstest/stop_all.sh
+END
+callfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21/mor/install_script/trunk/sh_scripts/stresstest/callfile
+END

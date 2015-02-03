@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/55442/mor/install_script/trunk/x5/gui
+END
+apache_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/50957/mor/install_script/trunk/x5/gui/apache_install.sh
+END
+ruby_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/53057/mor/install_script/trunk/x5/gui/ruby_install.sh
+END
+xsendfile_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/50957/mor/install_script/trunk/x5/gui/xsendfile_install.sh
+END
+gui_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/52877/mor/install_script/trunk/x5/gui/gui_install.sh
+END
+rvm_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/53776/mor/install_script/trunk/x5/gui/rvm_install.sh
+END
+memcached_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55442/mor/install_script/trunk/x5/gui/memcached_install.sh
+END
+passenger_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/50957/mor/install_script/trunk/x5/gui/passenger_install.sh
+END
+ruby_passenger_gui_update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/52877/mor/install_script/trunk/x5/gui/ruby_passenger_gui_update.sh
+END

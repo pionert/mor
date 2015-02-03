@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/54149/mor/install_script/trunk/db/x4
+END
+currency_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/35960/mor/install_script/trunk/db/x4/currency_changes.sql
+END
+beta_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/54149/mor/install_script/trunk/db/x4/beta_data.sql
+END
+speedup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/36712/mor/install_script/trunk/db/x4/speedup.sql
+END
+import_stable_changes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/49359/mor/install_script/trunk/db/x4/import_stable_changes.sh
+END
+beta_structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/54002/mor/install_script/trunk/db/x4/beta_structure.sql
+END
+permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/41210/mor/install_script/trunk/db/x4/permissions.sql
+END
+decimals.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/42318/mor/install_script/trunk/db/x4/decimals.sh
+END
+speedup_fresh_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/36489/mor/install_script/trunk/db/x4/speedup_fresh_db.sh
+END
+import_changes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/50215/mor/install_script/trunk/db/x4/import_changes.sh
+END

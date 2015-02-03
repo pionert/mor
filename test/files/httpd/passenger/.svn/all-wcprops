@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/10601/mor/install_script/trunk/test/files/httpd/passenger
+END
+httpd_passenger_32.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10601/mor/install_script/trunk/test/files/httpd/passenger/httpd_passenger_32.conf
+END
+httpd_passenger_64.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/10601/mor/install_script/trunk/test/files/httpd/passenger/httpd_passenger_64.conf
+END

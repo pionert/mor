@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/33724/mor/install_script/trunk/upgrade/12/files
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22586/mor/install_script/trunk/upgrade/12/files/database.yml
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/33724/mor/install_script/trunk/upgrade/12/files/environment.rb
+END

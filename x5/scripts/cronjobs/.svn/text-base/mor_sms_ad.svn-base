@@ -1,0 +1,1 @@
+*/5 * * * * root /usr/local/mor/mor_ruby /home/mor/lib/scripts/run_sms_campaign.rb >> /var/log/mor/sms_ad_cron.log

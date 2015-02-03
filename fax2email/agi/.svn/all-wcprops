@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/48928/mor/install_script/trunk/fax2email/agi
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/48928/mor/install_script/trunk/fax2email/agi/install.sh
+END
+mor.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/21/mor/install_script/trunk/fax2email/agi/mor.conf
+END
+cagi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/21/mor/install_script/trunk/fax2email/agi/cagi.c
+END
+mor_fax2email
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/48928/mor/install_script/trunk/fax2email/agi/mor_fax2email
+END
+mor_fax2email.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/48928/mor/install_script/trunk/fax2email/agi/mor_fax2email.c
+END
+cagi.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/21/mor/install_script/trunk/fax2email/agi/cagi.h
+END

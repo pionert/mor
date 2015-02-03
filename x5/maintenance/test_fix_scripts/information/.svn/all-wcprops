@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/52457/mor/install_script/trunk/x5/maintenance/test_fix_scripts/information
+END
+hdd_smart_status.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/information/hdd_smart_status.sh
+END
+0_folder_separator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/information/0_folder_separator.sh
+END
+check_ram.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/information/check_ram.sh
+END
+nics_duplex_status.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/information/nics_duplex_status.sh
+END
+vm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/information/vm.sh
+END
+hdd_space_in_root.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/information/hdd_space_in_root.sh
+END
+rrdtool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/50947/mor/install_script/trunk/x5/maintenance/test_fix_scripts/information/rrdtool.sh
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/48619/mor/install_script/trunk/test/files/patches
+END
+action_executeCmd_locking.diff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/48619/mor/install_script/trunk/test/files/patches/action_executeCmd_locking.diff
+END
+ssl_no_ec2m.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/43055/mor/install_script/trunk/test/files/patches/ssl_no_ec2m.patch
+END

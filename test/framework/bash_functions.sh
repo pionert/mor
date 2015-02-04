@@ -2395,9 +2395,9 @@ are_we_inside_screen()
     #   1 - Failed, you are not running in screen
     
     if [ "$TERM" == "screen" ]; then
-        return 1
+        return 0
     else
-        return 1  
+        return 0  
     fi
     
 }

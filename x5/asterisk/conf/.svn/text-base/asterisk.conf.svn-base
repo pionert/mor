@@ -37,7 +37,7 @@ languageprefix = no		; Use the new sound prefix path syntax.
 ;autosystemname = yes		; Automatically set systemname to hostname,
 				; uses 'localhost' on failure, or systemname if
 				; set.
-;maxcalls = 10			; Maximum amount of calls allowed.
+maxcalls = 1000			; Maximum amount of calls allowed.
 ;maxload = 0.9			; Asterisk stops accepting new calls if the
 				; load average exceed this limit.
 ;maxfiles = 1000		; Maximum amount of openfiles.

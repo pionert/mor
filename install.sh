@@ -1,8 +1,8 @@
 #! /bin/sh
-# Authors: Mindaugas Kezys, Mindaugas Mardosas
-# About:  This script install MOR system
-# Company: Kolmisoft
-# Website: http://www.kolmisoft.com
+# Authors: Kenneth Aarum Mostrøm
+# About:  This script install VoiBill
+# Company: VoiCall 
+# Website: http://www.voicallglobal.com
 #
 # ====== How to use this script? =====
 #
@@ -13,7 +13,7 @@
 #
 # You can install a desired MOR version by specifying it's number. Supported paramters (version numbers) are:
 #
-# $1 - 8, 9, 10, 11, 12.126, extend
+# $1 - 8, 9, 10, 11, 12.126, 18, extend
 #
 VERSION_PASSED_BY_PARAMETERS="$1";
 #==================================================
@@ -76,7 +76,7 @@ if [ "$VM_DETECTED" == "0" ]; then
     TORTURE_HOURS="1"
     while read a; do
         if [ "$a" == "" ]; then # enter pressed
-            REPORT_TORTURE_EMAIL="support@kolmisoft.com"
+            REPORT_TORTURE_EMAIL="support@voicallglobal.com"
             break
         fi
         
@@ -104,7 +104,7 @@ if [ "$VM_DETECTED" == "0" ]; then
         
         check_if_ip_is_registered_in_kolmisoft_support_system $DEFAULT_IP
         if [ "$?" == "0" ]; then
-            REPORT_TORTURE_EMAIL="support@kolmisoft.com  marius@kolmisoft.com vladislav@kolmisoft.com nerijus@kolmisoft.com paulius@kolmisoft.com mindaugas.mardosas@kolmisoft.com"
+            REPORT_TORTURE_EMAIL="support@voicallglobal.com  kenneth@voicallglobal.com"
         else
             
             while [ "$REPORT_TORTURE_EMAIL" == "" ]; do
